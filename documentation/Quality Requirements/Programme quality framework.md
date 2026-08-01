@@ -5,18 +5,20 @@
 | Field | Entry |
 | --- | --- |
 | Project | Namaa |
-| Document status | Draft for Namaa leadership and specialist review; not approved |
-| Version | 0.1 |
+| Document status | Provisionally accepted by Namaa leadership as a working and specialist-review basis; detailed specialist review pending |
+| Version | 0.2 |
 | Responsible role | Namaa project leadership |
 | Created | 1 August 2026 |
+| Provisional acceptance | Namaa project leadership, 2 August 2026 |
 | Standards review date | 1 August 2026 |
 | Related concept | [Project dossier](../core/Project%20dossier.md) |
+| Authoritative decision record | [Project Dossier 0.4](../core/Project%20dossier.md), DEC-010 through DEC-015 and CHG-001 |
 | Related safeguards | [YISA Child Safeguarding Policy for Namaa](Child%20safeguarding%20policy.md) |
 | Related learning framework | [Monitoring, Evaluation and Learning Framework](Monitoring%20evaluation%20and%20learning%20framework.md) |
 | Related specialist handover | [Specialist Team Handover Tasks](Specialist%20team%20handover%20tasks.md) |
 | Current boundary | The framework defines proposed controls. It does not approve a programme, partner, location, trainer, pilot, or child-facing activity. |
 
-This is the proposed detailed quality-control location for Namaa. It turns the quality principles in the project dossier into an auditable programme lifecycle. Until Namaa leadership formally approves it, all requirements and gates remain draft proposals.
+This is the detailed quality-control location for Namaa. It turns the quality principles in the project dossier into an auditable programme lifecycle. Namaa leadership has accepted it provisionally as the working basis for detailed specialist review. Its programme-specific requirements remain to be reviewed and completed by the specialist team, and it does not constitute a final policy, professional, legal, programme, training, pilot, or implementation approval.
 
 ## 2. Purpose
 
@@ -73,19 +75,19 @@ Quality status must describe exactly what has been reviewed. One status must nev
 
 ### QD-01 — Relevance, participation, and complementarity
 
-The programme dossier must define the problem, affected group, barriers, intended contribution, alternatives, existing provision, and unresolved assumptions. Children, caregivers, Syrian professionals, local actors, and relevant organisations should be involved in ways that are safe, accessible, and proportionate. Their input must be recorded together with the resulting decision; consultation does not automatically equal approval or representativeness.
+The broad educational need and retained target-group frame are accepted as sufficiently established for concept development. The selected programme must still define its precise participant frame, intended contribution, relevant alternatives, existing provision, and unresolved assumptions. This programme-specific work is not a renewed requirement to prove the general Syria-wide need or rank the retained target groups. Children, caregivers, Syrian professionals, local actors, and relevant organisations should be involved later where their input is decision-relevant and can be obtained safely, accessibly, and proportionately. Their input must be recorded together with the resulting decision; consultation does not automatically equal approval or representativeness.
 
 The programme must show how it complements, adapts, or strengthens existing education and support pathways and how duplication or displacement will be avoided. A lack of public data is not proof that no service exists.
 
 ### QD-02 — Specialist ownership and professional boundaries
 
-Each programme must have named accountable leads whose documented competence matches the subject, age group, pedagogy, inclusion needs, and sensitive content. A Syrian contextual reviewer and an adult-learning or teacher-development lead are required. Health, psychosocial, child-protection, sport, disability, or other specialist domains require appropriate expertise.
+Each programme must have named accountable leads whose documented competence matches the subject, age group, pedagogy, inclusion needs, and sensitive content. A Syrian contextual reviewer and an adult-learning or teacher-development lead are required. General health and puberty education remains non-clinical and does not automatically require a medical trainer; the specialist team determines the proportionate competence and review required for the exact content. Psychosocial, child-protection, sport, disability, clinical, or other specialist domains require expertise appropriate to the proposed activity.
 
-The programme must distinguish education and first-line support from diagnosis, treatment, psychotherapy, investigation, formal case management, official certification, and other regulated or specialist activities. Referral triggers and prohibited practices must be explicit.
+The programme must distinguish education and first-line support from diagnosis, treatment, therapy, psychotherapy, disease management, individual medical advice, investigation, formal case management, official certification, and other regulated or specialist activities. Referral triggers and prohibited practices must be explicit.
 
 ### QD-03 — Curriculum and content quality
 
-Specialists must define learning objectives, scope, sequence, source basis, age and developmental suitability, Arabic terminology, cultural and conflict sensitivity, diversity and bias controls, connection to the identified need, and compatibility with relevant education pathways. Formal or non-formal alignment and any claim of recognition require the competent authority's documented position.
+Specialists must define learning objectives, scope, sequence, source basis, age and developmental suitability, Arabic terminology, cultural and conflict sensitivity, diversity and bias controls, connection to the identified need, and compatibility with relevant education pathways. Arabic is the default language of child-facing instruction and learner materials. When another language, such as English, is itself taught, that target language may be used as required by the approved learning design. Specialists and Syrian contextual reviewers determine the Arabic register, terminology, explanatory support, and any bilingual scaffolding. Formal or non-formal alignment and any claim of recognition require the competent authority's documented position.
 
 Materials must have an owner, version, status, review record, authorised uses, translation status, accessibility formats, and change history. Draft or AI-assisted content must not be represented or delivered as approved content.
 
@@ -109,7 +111,7 @@ Routine feedback, ordinary complaints, safeguarding disclosures, personnel misco
 
 ### QD-07 — Trainer and facilitator competence
 
-Trainer selection must be based on documented subject competence, adult-learning ability, relevant experience, contextual and language capacity, safeguarding suitability, and the defined role. No universal certificate substitutes for this assessment.
+The specialist team defines the programme-specific minimum competence, evidence, practical assessment, and authorisation criteria for trainers and facilitators. Namaa leadership applies and documents those criteria. Selection must be based on documented subject competence, adult-learning ability, relevant experience, contextual and language capacity, safeguarding suitability, and the defined role. No universal certificate substitutes for this assessment.
 
 Training must model the approved pedagogy, include practice and feedback, and be followed by a practical competence assessment such as teach-back or observed delivery selected by the responsible specialists. Programme-specific authorisation must identify the person, programme, version, permitted role, assessment result, conditions, and approving role. Attendance alone does not authorise delivery. Initial delivery, coaching, peer support, refresher learning, and wellbeing support must be planned; one-off training without follow-up should be avoided.
 
@@ -158,6 +160,8 @@ The gates are sequential but may be repeated. Passing one gate authorises only t
 **Possible outcomes:** proceed to specialist design; proceed with stated conditions; revise; defer; stop.
 
 **Boundary:** This gate does not select a programme automatically and does not authorise training, research with children, data collection, funding claims, or delivery.
+
+**Current status:** The concept handover basis was accepted through DEC-009 and updated through CHG-001 in [Project Dossier 0.4](../core/Project%20dossier.md). The identified specialist group's formal role allocation and assignment record remain pending. No later gate has been passed.
 
 ### NQ-G0.5 — Bounded child participation or instrument-validation readiness
 
@@ -260,6 +264,7 @@ The gates are sequential but may be repeated. Passing one gate authorises only t
 | Role | Owns or assures | Must not substitute for |
 | --- | --- | --- |
 | YISA/Namaa leadership | Purpose, governance, appointments, resources, partner agreements, gate decisions, status and external claims | Specialist content judgement, local authority, safeguarding independence, or ethical review |
+| Namaa programme manager | Organisational coordination of the programme-development workstream, specialist interface, document flow, schedule, and escalation to Namaa leadership | Collective specialist approval, safeguarding authority, governing-body decisions, or external approval |
 | Programme or subject lead | Need-to-content logic, learning objectives, curriculum, scope, professional boundaries, source integrity | Organisational approval or expertise outside the person's discipline |
 | Adult-learning lead | Training architecture, practice, assessment, trainer development, ongoing support | Subject-matter approval or local authority recognition |
 | Inclusion specialist | Universal accessibility, accommodations, disability and equity review | The views and actual needs of affected children and local stakeholders |
@@ -330,9 +335,9 @@ Namaa must not claim that:
 
 ## 14. Current open matters
 
-- Formal approval of this framework and appointment of control owners: **Open**.
-- First target group, programme domain, outcome, age range, and programme version: **Not selected**.
-- Specialist team and competence evidence: **Not appointed**.
+- Provisional working acceptance: **Recorded on 2 August 2026; detailed specialist review and any later formal adoption remain open**.
+- First programme, precise participant frame, outcome, age range, and programme version: **Not selected**.
+- Initial specialist group: **Exists; formal composition, competence evidence, role allocation, availability, conflicts, and assignment not yet documented**.
 - Programme-specific quality criteria, assessment tools, and success thresholds: **Reserved for specialists**.
 - Local host, setting, permissions, referral capacity, and delivery conditions: **Not verified**.
 - Binding funder or partner quality requirements: **No agreement selected**.
@@ -344,3 +349,4 @@ Namaa must not claim that:
 | Version | Date | Change | Decision status |
 | --- | --- | --- | --- |
 | 0.1 | 1 August 2026 | Initial programme quality framework linked to current international education, humanitarian accountability, safeguarding, inclusion, and evaluation standards | Draft for Namaa leadership and specialist review |
+| 0.2 | 2 August 2026 | Recorded provisional leadership acceptance and aligned the need boundary, Arabic-default language, non-clinical health scope, specialist-owned competence criteria, programme-management role, and current handover status with Project Dossier 0.4. | Provisionally accepted working and specialist-review basis; no programme, training, pilot, or implementation approval |

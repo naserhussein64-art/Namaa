@@ -5,32 +5,35 @@
 | Field | Entry |
 | --- | --- |
 | Project | Namaa |
-| Document status | Proposed future work package; not assigned |
-| Version | 0.1 |
+| Document status | Provisionally accepted working package for the identified specialist group; formal assignment pending |
+| Version | 0.2 |
 | Responsible role | Namaa project leadership |
-| Intended recipient | Future multidisciplinary specialist team |
+| Intended recipient | Identified initial specialist group; programme-specific competence coverage and formal role allocation pending |
 | Created | 1 August 2026 |
 | Related concept | [Project dossier](../core/Project%20dossier.md) |
+| Authoritative decision record | [Project Dossier 0.4](../core/Project%20dossier.md), DEC-009, DEC-011 through DEC-015, and CHG-001 |
 | Related quality gates | [Programme Quality Framework](Programme%20quality%20framework.md) |
 | Related safeguards | [YISA Child Safeguarding Policy for Namaa](Child%20safeguarding%20policy.md) |
 | Related evidence framework | [Monitoring, Evaluation and Learning Framework](Monitoring%20evaluation%20and%20learning%20framework.md) |
-| Current boundary | No specialist team has been appointed, no first programme has been selected, and this document does not authorise contact with children, training, data collection, or delivery. |
+| Current boundary | An initial group with education and child-support experience exists, but its composition, role allocation, competence evidence, availability, conflicts, and formal assignment have not yet been documented. No first programme has been approved, and this document does not authorise contact with children, training, data collection, or delivery. |
 
 ## 2. Purpose
 
-This document converts the remaining professional programme-development questions into a bounded task for a future specialist team. The team will not be asked to validate whether children in Syria generally need support. Its first task will be to compare credible combinations within Namaa's retained target-group frame and candidate programme domains and recommend one bounded first programme. After a documented Namaa leadership selection, it will turn that programme question into a coherent, evidence-informed, inclusive, safe, teachable, and measurable programme package.
+This document converts the remaining professional programme-development questions into a bounded task for the identified initial specialist group. The team will not be asked to validate whether children in Syria generally need support, conduct a standalone local-validation exercise, or rank the retained target groups by social importance. Its first task is to translate Namaa's broad vision into one coherent first-programme recommendation and define only the participant frame needed for safe, inclusive, and measurable design. After a documented Namaa leadership selection, it will turn that programme question into an evidence-informed, inclusive, safe, teachable, and measurable programme package.
 
 The team owns professional recommendations within its competence. Namaa project leadership retains scope, appointment, resources, gate decisions, organisational policy, legal coordination, partner selection, and public claims.
+
+Namaa's long-term direction is to make safe additional learning and support opportunities accessible over time to as many children in need in Syria as responsible capacity allows. Its intended strategic contribution is to connect knowledge, professional experience, and suitable technologies available in Germany, including Syrian-diaspora experience, with specialist development and local delivery in Syria. This is an aspiration and contribution model, not a current reach or impact claim.
 
 ## 3. Information Namaa leadership must provide before assignment
 
 The assignment should not begin until Namaa project leadership provides:
 
-1. the retained target-group frame and candidate programme domains, including all decisions and evidence limits already recorded;
-2. the criteria and constraints against which the team should compare possible first-programme options;
-3. the intended setting and delivery assumptions, while clearly marking anything still unverified;
+1. the retained target-group frame and candidate programme domains, including the decision that no advance ranking of the retained groups is required;
+2. the criteria and constraints against which the team should develop and compare possible first-programme options;
+3. known delivery assumptions, while allowing the exact location and operating setting to remain open during the initial programme recommendation where they are not yet decision-relevant;
 4. the permitted and prohibited scope, including professional, safeguarding, data, and AI boundaries;
-5. named decision and review roles, available time and resources, and a realistic delivery horizon;
+5. the Namaa programme manager as the organisational interface, named decision and review roles, available time and resources, and a realistic development horizon;
 6. the current project dossier, evidence module, training framework, and Quality Requirements documents; and
 7. a written brief identifying which decisions the team may make and which require Namaa approval.
 
@@ -38,7 +41,7 @@ If these inputs are incomplete, the specialist team must record the gap and requ
 
 ## 4. Competence required in the team
 
-The assignment has two stages. For ST-01, Namaa should appoint a core education or child-development, inclusion, safeguarding, and Syrian contextual group and obtain targeted input from candidate-domain specialists. After the first programme is selected, the full team composition must match that programme. Collectively, it should cover:
+The assignment has two stages. An initial group with education and child-support experience already exists. Before relying on it for programme approval, Namaa must document its composition, responsibilities, availability, conflicts, and competence coverage and obtain any missing specialist input. After the first programme is selected, the full team composition must match that programme. Collectively, it should cover:
 
 - the subject matter of the programme;
 - child development, education, pedagogy, and game-based learning appropriate to the selected age;
@@ -51,13 +54,25 @@ The assignment has two stages. For ST-01, Namaa should appoint a core education 
 
 One person may cover more than one area only where competence, availability, responsibilities, and conflicts of interest are documented. Titles or certificates alone are not sufficient evidence of suitability.
 
+For each selected programme, the specialist team defines the proportionate minimum competence, evidence, assessment, and authorisation criteria for every trainer and Syrian teacher or facilitator role. Namaa leadership remains responsible for applying and documenting those criteria in appointments and gate decisions.
+
 ## 5. Required workstreams
 
-### ST-01 — Recommend the first bounded programme
+### ST-01 — Define and recommend the first bounded programme
 
-The team must compare credible combinations of target group, age range, barrier or unmet need, programme domain, relevant existing provision, delivery feasibility, inclusion requirements, risk, and measurable contribution. It must distinguish documented evidence from assumptions and explain how each plausible option would complement rather than replace schools, health professionals, protection services, or existing providers.
+The team must develop and, where useful, compare credible first-programme options. It must define the age and participant profile needed for the design without treating that choice as a ranking of need among Namaa's retained groups. The general educational need is accepted as sufficiently established for this concept phase.
 
-The team must submit a short recommendation with alternatives, trade-offs, prerequisites, and reasons. Namaa project leadership then records the selected first programme or decides to revise, defer, or stop. Detailed development beyond ST-01 must not proceed on an assumed selection.
+The working selection criteria are:
+
+1. the programme addresses a material learning or support need within Namaa's retained problem and target-group frame;
+2. it offers meaningful additional value alongside existing services and makes responsible use of Namaa's specialist, diaspora, or technology capabilities;
+3. it can be delivered safely and within clear professional boundaries;
+4. it can be designed inclusively and implemented practically; and
+5. it can define a measurable short-term learning or support outcome.
+
+The general problem relevance, strategic contribution, and concept-level safety boundary are sufficiently defined for handover. The team must still make the programme-specific additional value, inclusive and practical design, and short-term outcome concrete. It must distinguish evidence from assumptions and explain how the proposal would complement rather than replace schools, health professionals, protection services, or existing providers.
+
+The team must submit a short recommendation with its rationale, prerequisites, and, where useful, alternatives and trade-offs. Namaa project leadership then records the selected first programme or decides to revise, defer, or stop. Detailed development beyond ST-01 must not proceed on an assumed selection.
 
 ### ST-02 — Develop the programme model
 
@@ -65,7 +80,9 @@ The team must define the programme purpose, theory of change, intended proximal 
 
 ### ST-03 — Develop and approve the learning content
 
-The team must produce age-appropriate learning objectives, a structured curriculum or module plan, an evidence and source map, facilitator guidance, learner materials, and assessment tasks. Arabic materials require controlled language and contextual review. Health, psychosocial, disability, sport, coding, or other specialist content requires approval by a competent specialist for that exact subject.
+The team must produce age-appropriate learning objectives, a structured curriculum or module plan, an evidence and source map, facilitator guidance, learner materials, and assessment tasks. Arabic is the default language of child-facing instruction and learner materials. When another language, such as English, is itself being taught, that target language may be used as required by the learning design. Arabic register, terminology, explanatory support, and any bilingual scaffolding require controlled specialist and Syrian contextual review.
+
+General health and puberty content is limited to simple, accurate, age-appropriate, non-clinical information and support about health, bodies, hygiene, development, and puberty. It does not include diagnosis, treatment, therapy, psychotherapy, disease management, or individual medical advice. The team determines the proportionate competence and content review required for the exact topic. Health, psychosocial, disability, sport, coding, or other specialist content must remain within the approved professional boundary for that subject.
 
 Games and interactive activities must serve a defined learning purpose. They must be accessible, culturally appropriate, non-stigmatising, non-manipulative, and safe for the intended age and group.
 
@@ -75,17 +92,17 @@ The team must identify likely barriers and necessary accommodations for the sele
 
 ### ST-05 — Design the facilitator-training package
 
-The team must define trainer competence, participant entry criteria, learning objectives, session plans, practice requirements, teach-back or observed assessment, authorisation criteria, supervision, coaching, refresher triggers, wellbeing support, and accurate completion-certificate wording. Completing training must not automatically authorise child-facing delivery.
+The team must define the programme-specific minimum competence and evidence required for trainers and facilitators, participant entry criteria, learning objectives, session plans, practice requirements, teach-back or observed assessment, authorisation criteria, supervision, coaching, refresher triggers, wellbeing support, and accurate completion-certificate wording. Namaa leadership applies and records these criteria. Completing training must not automatically authorise child-facing delivery.
 
 ### ST-06 — Integrate safeguarding and professional boundaries
 
-Working with the Safeguarding Lead, the team must identify safeguarding risk points in the content and delivery, safe participation rules, distress and stop triggers, prohibited practices, reporting instructions, and referral triggers. The team must not design teachers as investigators, therapists, clinicians, or child-protection case managers.
+The provisionally accepted [Child Safeguarding Policy](Child%20safeguarding%20policy.md) is the concept-stage baseline and must be reviewed and adapted, not recreated from scratch. Working with the Safeguarding Lead, the team must identify safeguarding risk points in the content and delivery, safe participation rules, distress and stop triggers, prohibited practices, reporting instructions, and referral triggers. The team must not design teachers as investigators, therapists, clinicians, or child-protection case managers.
 
 The specialist team may advise on local service requirements but does not independently approve YISA policy or verify the local reporting and referral system.
 
 ### ST-07 — Design measurement and learning
 
-Working with the MEL role, the team must define a programme-specific results chain, feasible indicators, measurement stages, appropriate learner assessments, feedback methods, sampling and evaluability assumptions, interpretation limits, and pre-agreed continue, adapt, pause, or stop rules. Instruments must be accessible, proportionate, tied to taught content, and reviewed for possible distress or exclusion.
+The provisionally accepted [Monitoring, Evaluation and Learning Framework](Monitoring%20evaluation%20and%20learning%20framework.md) is the concept-stage baseline and must be made programme-specific, not recreated from scratch. Working with the MEL role, the team must define a programme-specific results chain, feasible indicators, measurement stages, appropriate learner assessments, feedback methods, sampling and evaluability assumptions, interpretation limits, and pre-agreed continue, adapt, pause, or stop rules. Instruments must be accessible, proportionate, tied to taught content, and reviewed for possible distress or exclusion.
 
 The team must not use activity counts as proof of educational benefit or describe a small uncontrolled pilot as proof of general effectiveness or causal impact.
 
@@ -101,7 +118,7 @@ All approved materials must have an owner, version, date, source record, review 
 
 The specialist team should return one coherent package containing at least:
 
-1. first-programme option comparison and documented recommendation;
+1. a documented first-programme recommendation and rationale, with alternatives and trade-offs where useful;
 2. programme specification and theory of change for the leadership-selected option;
 3. target, eligibility, exclusion, and suitability criteria;
 4. evidence and source map;
@@ -142,9 +159,10 @@ Namaa project leadership decides whether the package passes NQ-G1. Passing NQ-G1
 
 ## 9. Current assignment status
 
-- First target group and age range: **Not selected**.
+- First programme and precise age and participant frame: **Not selected**.
 - First programme domain and question: **Not selected**.
-- Multidisciplinary specialist team: **Not appointed**.
+- Initial specialist group: **Exists; formal composition, role allocation, competence evidence, availability, conflicts, and assignment not yet documented**.
+- Namaa programme manager: **Role model decided; individual designation and written appointment remain pending**.
 - Accountable subject lead: **Not appointed**.
 - Arabic and Syrian contextual review roles: **Not appointed**.
 - Programme-specific evidence review: **Not started**.
@@ -157,3 +175,4 @@ Namaa project leadership decides whether the package passes NQ-G1. Passing NQ-G1
 | Version | Date | Change | Decision status |
 | --- | --- | --- | --- |
 | 0.1 | 1 August 2026 | Converted remaining professional design questions into a bounded future specialist-team assignment and separated them from YISA and implementation responsibilities. | Proposed; not assigned |
+| 0.2 | 2 August 2026 | Aligned the work package with the confirmed vision, research stop point, Arabic-default language, identified initial team, programme-management model, specialist-owned competence criteria, non-clinical health boundary, and provisionally accepted Quality Requirements basis. | Provisionally accepted working package; formal assignment and detailed specialist review pending |

@@ -1,17 +1,20 @@
 # Namaa Funding Research
 
 - **Document status:** Draft
-- **Version:** 0.1
+- **Version:** 0.2
 - **Underlying research review date:** 21 July 2026
-- **English transfer date:** 1 August 2026
-- **Current verification status:** Not re-verified during repository transfer
+- **English transfer date:** 1 August 2026; project-direction clarification added on 2 August 2026
+- **Current verification status:** Funding entries were not re-verified on 2 August 2026; only their relationship to the current Namaa concept was clarified
 - **Responsible role:** Namaa project leadership
 - **Project phase:** Exploration. According to the concept draft, Namaa had not been approved, funded, validated, or implemented at the research review date.
 - **Original source:** [Namaa funding research in the YISA repository](https://github.com/naserhussein64-art/Youth-initiative-in-Syria-and-Abroad/blob/main/Projects/Exploration/Namaa/Namaa%20Funding%20Research.md)
 - **Research boundary:** Only programmes whose core information could be supported by official funding-institution sources were included. Where a required detail could not be established clearly from public information, it is marked explicitly as **Not verified**. Thematic alignment does not constitute a funding commitment.
 - **Re-verification requirement:** This document is an English transfer of the research snapshot dated 21 July 2026. It does not introduce new research or update the underlying findings. All time-sensitive details, including calls, deadlines, amounts, eligibility rules, country coverage, and transfer feasibility, must be re-verified before any application or expression of interest.
+- **Authoritative project decisions:** [Project Dossier 0.4](../core/Project%20dossier.md), especially DEC-010, DEC-011, DEC-014, DEC-015, and CHG-001. This module does not independently change those decisions.
 
 Repository transfer does not mean that an opportunity is currently open, that YISA or Namaa is eligible, that a funder has been selected, that funding has been secured, or that the project or a pilot has been approved. The original research used Jaramana as a provisional example. Namaa currently has no approved implementation location; location-specific statements in this snapshot are historical research assumptions, not project decisions.
+
+Current project direction as of 2 August 2026: the broad educational need is considered sufficiently established for concept development. A new general-needs study, standalone local-validation exercise, or ranking of Namaa's retained target groups is not a prerequisite for the specialist phase. A selected programme or funder may still require evidence of programme-specific additional value, complementarity, feasibility, and local readiness. This clarification does not update or re-verify any funding deadline, amount, eligibility rule, or Syria coverage below.
 
 ## Starting Point: Namaa and YISA's Position at the Research Review Date
 
@@ -69,11 +72,11 @@ In addition, a JRS centre supported by Kindermissionswerk already operated in Ja
 1. **Completed legal and tax capacity:** A current register extract, a board authorised to represent the association, and a tax-exemption notice or other reliable evidence of charitable status.
 2. **Active financial infrastructure:** An association bank account, dual-control principle, budget approvals, receipt and voucher management, fund-drawdown procedures, and processes for exchange rates and Syria-related payments.
 3. **An independent, legally registered Syrian partner:** Its own leadership, bank account, and accounting system; local permissions; due diligence; and documented experience working with children. F10 normally requires at least one year of partnership.
-4. **Evidence of the local service gap:** A structured needs and stakeholder analysis in the intended community, particularly in relation to the existing JRS service in Jaramana; documented additional value instead of a parallel structure.
+4. **Programme-specific additional value and complementarity:** For the later selected programme and setting, show how Namaa adds value alongside relevant existing providers rather than creating an unnecessary parallel structure. The earlier Jaramana-specific validation requirement was a historical research assumption, not the current general project sequence.
 5. **Adopted child-safeguarding system:** Binding policies for YISA and its partner, a code of conduct, safe complaint and reporting channels, referral arrangements, consent procedures, and clear responsibilities.
 6. **A fundable pilot plan:** A clearly defined age group, location, cohort, duration, content, staffing, budget, theory of change, baselines, indicators, and stop criteria.
 7. **Data protection and safe technology:** Data minimisation, consent, role-based access, retention and deletion, an incident process, and clear boundaries for digital and AI-supported tools.
-8. **Professional quality assurance:** Qualified education, inclusion, health, and child-safeguarding specialists; review of Arabic-language and accessible materials.
+8. **Professional quality assurance:** Qualified education, inclusion, child-safeguarding, and programme-specific subject specialists; proportionate review of any general non-clinical health or puberty content; and review of Arabic-language and accessible materials.
 9. **Documented experience and references:** Small completed activities, documented outcomes, independent references, reliable reports, and, where possible, an initial external evaluation.
 10. **Legal and operational Syria review:** Local registrations and permissions, sanctions, money transfers, counter-terrorism and anti-money-laundering checks, procurement, insurance, and security. The specific design is **Not verified** and requires specialist review.
 
@@ -83,9 +86,9 @@ In addition, a JRS centre supported by Kindermissionswerk already operated in Ja
 - **A school, education directorate, municipality, or other competent public body**, particularly if rooms, equipment, or social infrastructure form part of the pilot.
 - **An organisation of persons with disabilities or a local inclusion and accessibility specialist**, ensuring that accessibility is not addressed only in theory.
 - **A child-safeguarding and referral partner** with safe reporting pathways and links to qualified protection, health, and psychosocial services.
-- **A licensed health or psychosocial specialist organisation** to review health-literacy content professionally, without turning Namaa into a treatment service.
+- **A suitable educational, health-literacy, or other subject reviewer** where required by the exact topic. Namaa's current health and puberty scope is general, age-appropriate, and non-clinical; a clinical organisation is not automatically required unless a later scope crosses into clinical or individually advisory activity.
 - **An experienced German or European lead organisation** for F10, Stiftung RTL, Erasmus+, or a potential ECHO sub-partnership, including grant-application, financial-management, and compliance experience.
-- **JRS and other providers already operating in Jaramana**, to clarify needs, referral pathways, and complementarity and to avoid duplicate structures.
+- **Relevant existing providers in the later selected setting**, to clarify programme-specific complementarity and referral pathways. JRS in Jaramana remains a historical example from the original research, not a selected partner or location.
 - **A university or monitoring and evaluation partner** for the baseline, pilot design, accessible evaluation, and credible evidence of impact.
 - **A Berlin-based diaspora, school, or global-learning partner** for the Berliner Landesstelle für Entwicklungszusammenarbeit (LEZ), House of Resources, or Erasmus+ components in Germany.
 - **An open-source, Arabic-language accessibility, or education-technology partner** for a narrowly defined digital support component with a secure data architecture.
@@ -94,7 +97,7 @@ In addition, a JRS centre supported by Kindermissionswerk already operated in Ja
 
 - Completion and date of YISA's registration, tax-recognised charitable status, and association bank account.
 - The identity, legal status, banking capacity, permissions, experience, and child-safeguarding system of a Syrian Namaa partner.
-- The specific local service gap, target group, need, and additional value of Namaa in relation to JRS and other services in Jaramana.
+- The programme-specific additional value, complementarity, participant frame, and implementation fit in any later selected setting. The earlier Jaramana-specific question is historical and no longer defines the current project sequence.
 - The own-contribution rate applicable to Syria under the Small Projects Fund for Development Cooperation and the practical feasibility of current money transfers.
 - The funding amount and specific acceptance of Syria projects by Stiftung RTL; fixed deadline and funding amount for Kindermissionswerk and MISEREOR.
 - Next deadlines for TAKAMUL, startsocial, Erasmus+ Capacity Building in the Field of Youth, and WISE.
@@ -104,3 +107,10 @@ In addition, a JRS centre supported by Kindermissionswerk already operated in Ja
 - A currently open EU call specific to Syria on education, inclusion, child safeguarding, or health literacy that is directly accessible to YISA.
 
 Before any expression of interest or application is submitted, the relevant programme pages must be checked again and every point marked **Not verified** must be clarified directly with the funder.
+
+## Change history
+
+| Version | Date | Change | Decision status |
+| --- | --- | --- | --- |
+| 0.1 | 1 August 2026 | Transferred the official-source funding research snapshot dated 21 July 2026 into the Namaa repository in English. | Draft; funding entries not re-verified during transfer |
+| 0.2 | 2 August 2026 | Clarified the current concept-stage research boundary, removed Jaramana-specific validation as the general project sequence, and aligned health-content partner wording with the non-clinical scope. Funding facts were not re-verified. | Context update only; live re-verification still required before any contact or application |

@@ -5,13 +5,15 @@
 | Field | Entry |
 | --- | --- |
 | Project | Namaa |
-| Document status | Draft for Namaa leadership, specialist, safeguarding, ethics, and data-protection review |
-| Version | 0.1 |
+| Document status | Provisionally accepted by Namaa leadership as a working and specialist-review basis; detailed specialist, safeguarding, ethics, and data-protection review pending |
+| Version | 0.2 |
 | Responsible role | Namaa project leadership |
 | Technical owner | MEL Lead — not appointed |
 | Created | 1 August 2026 |
+| Provisional acceptance | Namaa project leadership, 2 August 2026 |
 | Standards review date | 1 August 2026 |
 | Related concept | [Project dossier](../core/Project%20dossier.md) |
+| Authoritative decision record | [Project Dossier 0.4](../core/Project%20dossier.md), DEC-010 through DEC-015 and CHG-001 |
 | Related quality gates | [Programme Quality Framework](Programme%20quality%20framework.md) |
 | Related safeguards | [YISA Child Safeguarding Policy for Namaa](Child%20safeguarding%20policy.md) |
 | Related specialist handover | [Specialist Team Handover Tasks](Specialist%20team%20handover%20tasks.md) |
@@ -77,7 +79,7 @@ The following is a draft structure, not a validated causal model.
 
 - one specialist-approved programme module with a controlled version;
 - trained and practically assessed teachers or facilitators;
-- understandable, culturally reviewed, accessible Arabic materials;
+- understandable, culturally reviewed, accessible Arabic materials by default, with a target language used where that language is itself taught and the specialist-approved design requires it;
 - an accountable local host, appropriate setting, and required permissions;
 - adopted safeguarding, complaints, referral, ethics, and data controls;
 - specialist coaching, supervision, and adequate operational resources; and
@@ -120,7 +122,7 @@ Depending on the selected programme, later inquiry may examine retention of lear
 
 ### Long-term aspiration
 
-Namaa aspires to support better educational and life pathways for children. A small pilot cannot attribute this long-term outcome to Namaa.
+Namaa aspires over time to make safe additional learning and support opportunities accessible to as many children in need in Syria as responsible capacity allows and thereby contribute to stronger capabilities, agency, future prospects, quality of life, and a better future for Syrian society. This is a strategic aspiration and contribution model. A small pilot cannot attribute these long-term outcomes to Namaa or claim to be a complete solution to Syria's educational or societal challenges.
 
 ### External assumptions
 
@@ -369,3 +371,4 @@ The OECD impact criterion asks what significant difference an intervention makes
 | Version | Date | Change | Decision status |
 | --- | --- | --- | --- |
 | 0.1 | 1 August 2026 | Initial MEL framework grounded in current education, evaluation, ethical evidence, humanitarian accountability, child-rights, and disability-inclusion standards | Draft for Namaa leadership and specialist review |
+| 0.2 | 2 August 2026 | Recorded provisional leadership acceptance and aligned the long-term aspiration and Arabic-default learning-language rule with Project Dossier 0.4 while retaining strict limits on pilot and impact claims. | Provisionally accepted working and specialist-review basis; no pilot, evidence, or impact approval |

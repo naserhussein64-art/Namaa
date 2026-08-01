@@ -6,19 +6,21 @@
 | --- | --- |
 | Organisation | Youth Initiative in Syria and Abroad (YISA) |
 | Initial programme application | Namaa |
-| Document status | Draft for governing-body and specialist review; not adopted |
-| Version | 0.1 |
+| Document status | Provisionally accepted by Namaa leadership as a working and specialist-review basis; not adopted by the YISA governing body |
+| Version | 0.2 |
 | Responsible role | YISA governing body |
 | Senior accountable officer | Not appointed |
 | Governing-body safeguarding oversight | Not appointed |
 | Operational owner | Safeguarding Lead — not appointed |
 | Alternate reporting role | Deputy Safeguarding Lead — not appointed |
 | Created | 1 August 2026 |
+| Provisional acceptance | Namaa project leadership, 2 August 2026 |
+| Authoritative decision record | [Project Dossier 0.4](../core/Project%20dossier.md), especially DEC-015 and CHG-001 |
 | Standards review date | 1 August 2026 |
 | Access | Public policy draft; case records and local referral details must never be stored in this public repository |
 | Current operational boundary | Namaa has no approved child-facing activity. This policy does not authorise contact with children. |
 
-This is a proposed organisation-wide YISA policy drafted in the Namaa repository because Namaa is the first programme for which the safeguards are being designed. It becomes binding only after formal approval by YISA's competent governing body. If adopted, YISA must designate one canonical controlled copy outside any single project repository and apply it consistently across all activities involving or affecting children.
+This is a proposed organisation-wide YISA policy drafted in the Namaa repository because Namaa is the first programme for which the safeguards are being designed. Namaa leadership has accepted it provisionally as the working basis for detailed specialist review. It becomes binding only after formal approval by YISA's competent governing body. If adopted, YISA must designate one canonical controlled copy outside any single project repository and apply it consistently across all activities involving or affecting children.
 
 The policy is informed by international standards. It does not establish certification, conformity with a standard, legal compliance, a functioning Syrian referral system, or readiness to work with children.
 
@@ -345,3 +347,4 @@ The exact local annex is intentionally not completed at concept stage. It cannot
 | Version | Date | Change | Decision status |
 | --- | --- | --- | --- |
 | 0.1 | 1 August 2026 | Initial draft grounded in current international safeguarding, PSEA, child-protection, education, inclusion, and accountability standards | Draft for YISA governing-body and specialist review |
+| 0.2 | 2 August 2026 | Recorded Namaa leadership's provisional acceptance as a working and detailed specialist-review basis while preserving the need for YISA governing-body adoption, named roles, local routes, and later operational gates. | Provisionally accepted for specialist review; not adopted and no child-facing approval |

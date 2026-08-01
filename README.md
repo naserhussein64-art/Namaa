@@ -2,6 +2,8 @@
 
 Namaa is an exploration-stage YISA project concept for regular, inclusive, and measurable learning and support pathways for children in Syria. Qualified specialists would develop programme modules and train Syrian teachers or facilitators, who would later deliver approved modules within a safeguarded local framework.
 
+Namaa's long-term vision is to make safe additional learning and support opportunities accessible over time to as many children in need in Syria as responsible capacity allows, strengthening their capabilities, agency, future prospects, and quality of life. Its intended contribution connects knowledge, professional experience, and suitable technologies available in Germany, including Syrian-diaspora experience, with specialist programme development and local delivery in Syria. This is a strategic aspiration, not a current scale or impact claim and not a claim that Namaa alone can solve Syria's educational or societal challenges.
+
 - **Project phase:** Concept development
 - **Repository status:** Current documentation is in English and maintained as drafts unless a document states otherwise.
 - **Authoritative current concept:** [Project dossier](documentation/core/Project%20dossier.md)
@@ -24,10 +26,10 @@ The repository follows the [Documentation Rules](https://github.com/naserhussein
 
 ### Quality Requirements
 
-- [Programme quality framework](documentation/Quality%20Requirements/Programme%20quality%20framework.md) — proposed quality domains, evidence packages, lifecycle gates, roles, change control, and claim boundaries, grounded in international education and humanitarian standards.
-- [Child safeguarding policy](documentation/Quality%20Requirements/Child%20safeguarding%20policy.md) — proposed organisation-wide YISA policy for prevention, safer conduct, reporting, response, partner controls, digital safeguards, and local implementation gates.
-- [Monitoring, evaluation and learning framework](documentation/Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md) — proposed results logic, ethical evidence gate, indicator architecture, learning decisions, and limits on impact claims.
-- [Specialist team handover tasks](documentation/Quality%20Requirements/Specialist%20team%20handover%20tasks.md) — proposed later work package for the multidisciplinary team that will turn the concept into one specialist-approved programme.
+- [Programme quality framework](documentation/Quality%20Requirements/Programme%20quality%20framework.md) — provisionally accepted working and specialist-review basis for quality domains, evidence packages, lifecycle gates, roles, change control, and claim boundaries.
+- [Child safeguarding policy](documentation/Quality%20Requirements/Child%20safeguarding%20policy.md) — provisionally accepted working and specialist-review basis for prevention, safer conduct, reporting, response, partner controls, digital safeguards, and local implementation gates; it is not adopted by the YISA governing body.
+- [Monitoring, evaluation and learning framework](documentation/Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md) — provisionally accepted working and specialist-review basis for results logic, ethical evidence, indicators, learning decisions, and limits on impact claims.
+- [Specialist team handover tasks](documentation/Quality%20Requirements/Specialist%20team%20handover%20tasks.md) — provisionally accepted work package for the identified initial specialist group; formal role allocation and assignment remain pending.
 
 ### Research and specialist modules
 
@@ -37,7 +39,7 @@ The repository follows the [Documentation Rules](https://github.com/naserhussein
 
 ### Handover and archive
 
-The handover folder is reserved for a future, specifically authorised transfer to appointed specialists or implementers. No handover has yet been accepted. The archive is reserved for superseded Namaa documents.
+The handover folder is reserved for a later attributable transfer or acceptance record. The current dossier, Quality Requirements frameworks, and specialist work package form the accepted provisional handover basis, but no formal transfer of responsibility, specialist assignment record, or operational handover has been completed. The archive is reserved for superseded Namaa documents.
 
 ## Repository structure
 
@@ -71,3 +73,7 @@ The retained development chain is:
 > Namaa project concept -> development by qualified specialists -> training of Syrian teachers and facilitators -> delivery with children -> quality assurance and continuous improvement.
 
 Programme content, pedagogy, age groups, learning objectives, delivery methods, and assessment must be developed by the relevant specialists. Technology and AI remain optional enabling capabilities and are not approved child-facing products.
+
+An initial group with education and child-support experience exists and intends to continue the work. A professionally knowledgeable YISA member will manage the programme-development process, while the specialist team defines programme-specific competence requirements. Formal role and competence records remain pending.
+
+Arabic is the default child-facing learning and materials language, except where another language, such as English, is itself taught. General health and puberty content is limited to simple, accurate, age-appropriate, non-clinical education and support; Namaa does not provide diagnosis, treatment, therapy, psychotherapy, disease management, or individual medical advice.

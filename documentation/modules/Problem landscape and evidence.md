@@ -1,23 +1,24 @@
 # Namaa Problem Landscape and Evidence
 
-- **Document status:** Draft evidence synthesis
-- **Version:** 0.1
+- **Document status:** Completed desk-research baseline for the current concept-development decision
+- **Version:** 0.2
 - **Underlying desk research:** July 2026
-- **Compilation date:** 1 August 2026
+- **Compilation date:** 1 August 2026; concept-phase research closure recorded on 2 August 2026
 - **Responsible role:** Namaa project leadership
 - **Project phase:** Exploration and concept development
 - **Verification boundary:** This document consolidates previously reviewed sources. It is not a new live source review.
-- **Related decision record:** [Project dossier](../core/Project%20dossier.md)
+- **Related decision record:** [Project Dossier 0.4](../core/Project%20dossier.md), especially DEC-001, DEC-002, DEC-011, and CHG-001
+- **Current phase decision:** The broad educational need is sufficiently established for continued concept development. Further general-needs research, standalone local validation, and comparative ranking of the retained target groups are not prerequisites for the specialist phase.
 
 ## Purpose and evidence boundary
 
-The reviewed evidence establishes both a severe education problem in Syria and a substantial existing provider landscape. It does not establish that educational programmes are generally absent, that every location has the same needs, or that Namaa's proposed model is already the correct response.
+The reviewed evidence establishes both a severe education problem in Syria and a substantial existing provider landscape. Namaa leadership considers this evidence sufficient for the current broad problem orientation and has closed the general desk-research round for this concept decision. The evidence does not establish that educational programmes are generally absent, that every location has the same needs, or that Namaa's proposed model is already the correct response.
 
 The strongest evidence-compatible concern is discontinuity across a support pathway:
 
 > offer available -> family informed -> child admitted -> regular participation -> completion -> transition and retention
 
-The reviewed public sources document activities and reach but do not provide a current local picture of capacity, waiting lists, participation intensity, completion, transition, retention, or learning outcomes. Namaa's focus on regular and measurable support pathways is therefore a project working premise consistent with the evidence, not a verified sector-wide finding.
+The reviewed public sources document activities and reach but do not provide a current local picture of capacity, waiting lists, participation intensity, completion, transition, retention, or learning outcomes. Namaa's focus on regular and measurable support pathways is therefore a project working premise consistent with the evidence, not a verified sector-wide finding. The remaining limitations do not require Namaa to prove the general need again or rank its retained target groups before specialists define a first programme.
 
 ## Supported problem landscape
 
@@ -29,7 +30,7 @@ The reviewed public sources document activities and reach but do not provide a c
 | EVD-004 | Poverty creates participation barriers. | Transport, materials, clothing, loss of household income, and child labour recur in official reporting. [UNICEF Q1 2026](https://www.unicef.org/media/180531/file/Syrian-Arab-Republic-Humanitarian-Situation-Report-No.1%2C31-March-2026.pdf.pdf); [UNHCR Q1 2026](https://data.unhcr.org/en/documents/download/122228) | Their relative importance and interaction have not been quantified nationally. |
 | EVD-005 | Some returning children face additional barriers. | UNHCR identifies interrupted education, curriculum changes, limited Arabic proficiency, lower grade placement, and documentation difficulties. [UNHCR Q1 2026](https://data.unhcr.org/en/documents/download/122228) | The assessment covered households reached through UNHCR structures; household percentages are not national child-level rates. |
 | EVD-006 | Children with disabilities face particular exclusion. | UNICEF describes children with disabilities as among the groups most excluded from education and child-protection services. [UNICEF inclusive education and child protection](https://www.unicef.org/syria/press-releases/finland-and-unicef-strengthen-inclusive-education-and-child-protection-children) | Current national education rates disaggregated by disability were not identified in the reviewed material. |
-| EVD-007 | Girls may face possible protection and participation barriers. | Reviewed material identifies insecurity, family restrictions, early marriage, and gender-based violence as possible barriers. [UNFPA Voices from Syria 2025](https://syria.unfpa.org/sites/default/files/pub-pdf/2025-10/Report_Voices%202025_M08_Pages%20%281%29.pdf) | The specific education and support needs of girls around puberty were not researched sufficiently for Namaa. |
+| EVD-007 | Girls may face possible protection and participation barriers. | Reviewed material identifies insecurity, family restrictions, early marriage, and gender-based violence as possible barriers. [UNFPA Voices from Syria 2025](https://syria.unfpa.org/sites/default/files/pub-pdf/2025-10/Report_Voices%202025_M08_Pages%20%281%29.pdf) | The reviewed source set contains less puberty-specific detail than evidence for some other groups. The separate project decision in the dossier nevertheless retains girls during puberty and does not require comparative ranking before specialist design. |
 | EVD-008 | Long interruptions and reduced instruction raise concern about learning gaps, but their national scale is unclear. | The combined interruption, capacity, and attendance evidence supports concern about learning loss. | No current nationally representative assessment of Syrian children's reading and mathematics skills was identified in the reviewed sources. |
 | EVD-009 | Existing non-formal programmes can support learning. | A UNICEF evaluation of programming delivered from 2020 to 2023 found learning improvements among many participants. [UNICEF evaluation](https://evaluationreports.unicef.org/GetDocument?documentID=18789&fileID=49953) | This does not prove current nationwide effectiveness; formal-school transitions were not followed sufficiently. |
 
@@ -84,9 +85,9 @@ For Namaa, offline-capable, low-bandwidth, device-light, accessible, facilitator
 
 ## Relationship to Namaa's working problem
 
-The authoritative working problem and target-group decision are maintained in the [Project dossier](../core/Project%20dossier.md), not in this evidence module. The reviewed evidence is compatible with concern about unreliable or discontinuous support pathways, but it does not verify their scale, location, causes, or the precise Namaa service gap.
+The authoritative working problem and target-group decision are maintained in the [Project dossier](../core/Project%20dossier.md), not in this evidence module. The reviewed evidence is compatible with concern about unreliable or discontinuous support pathways. It is sufficient for continued concept development, but it does not verify the scale, location, causes, programme-specific additional value, or later implementation fit of a precise Namaa service.
 
-Evidence is comparatively stronger for out-of-school children, returnees, children with disabilities, and prolonged education interruptions. Puberty-specific education and support needs remain less thoroughly researched in the reviewed source set. This evidence-strength statement does not change or prioritise the target-group decision.
+Evidence is comparatively more detailed for out-of-school children, returnees, children with disabilities, and prolonged education interruptions than for puberty-specific education and support. This evidence-strength statement does not change or prioritise the target-group decision and is not a reason to conduct another general-needs research round before specialist development.
 
 ## What the evidence does not establish
 
@@ -104,16 +105,22 @@ The reviewed material does not establish:
 - approval, funding, implementation readiness, or likely impact;
 - that Namaa's proposed activities would add value rather than duplicate existing provision.
 
-## Open evidence questions
+## Deferred programme- and implementation-specific questions
 
-1. Which target-group needs should receive priority within the broad Namaa concept?
-2. What current support capacity, participation intensity, completion, transition, and retention data exist beyond public reports?
-3. Which administrative route currently applies to enrolment, placement, foreign records, certification, and disability-related access?
-4. Which existing organisations provide sustained rather than one-off support to each selected group?
-5. What programme content and delivery method should qualified specialists recommend?
-6. What referral pathways exist for education, disability support, health, psychosocial support, and safeguarding?
-7. What electricity, connectivity, device, language, and accessibility conditions must any future tool accommodate?
-8. Would an AI-assisted process outperform a simpler non-AI process in quality, access, or facilitator workload?
-9. What evidence would demonstrate Namaa's additional value without treating missing public data as proof of a service gap?
+1. What bounded age and participant profile is necessary for the first programme's safe, inclusive, and measurable design?
+2. What current support capacity, participation intensity, completion, transition, and retention data become necessary for the selected programme or funder?
+3. Which administrative route applies to the selected programme, participants, and setting?
+4. Which existing organisations provide relevant sustained support in the selected setting, and what specific additional value can Namaa offer alongside them?
+5. What programme content, delivery method, and measurable short-term outcome should qualified specialists recommend?
+6. What referral pathways exist for education, disability support, health, psychosocial support, and safeguarding in the selected setting?
+7. What electricity, connectivity, device, language, and accessibility conditions must any selected future tool accommodate?
+8. Would an AI-assisted process outperform a simpler non-AI process for a defined programme need?
 
-These questions do not create a standalone local-validation project in the current phase. They identify facts that must be resolved when a selected programme, partner, location, technology, pilot, or funding route makes them decision-relevant.
+These are deferred design and readiness questions, not a new general-needs or local-validation project. They must be resolved only when a selected programme, partner, location, technology, pilot, or funding route makes them decision-relevant.
+
+## Change history
+
+| Version | Date | Change | Decision status |
+| --- | --- | --- | --- |
+| 0.1 | 1 August 2026 | Consolidated the reviewed problem, actor, reach, administrative, and technology evidence and its limits. | Draft evidence synthesis |
+| 0.2 | 2 August 2026 | Recorded closure of the general desk-research round for the current concept decision, removed advance subgroup ranking as a prerequisite, and retained only programme- and implementation-triggered evidence questions. | Current concept-phase evidence baseline; not programme or implementation validation |
