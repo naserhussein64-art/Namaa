@@ -7,15 +7,15 @@
 | Project | Namaa |
 | Related starting record | [Project start](../start/Project%20start.md) |
 | Document status | Draft |
-| Version | 0.1 |
+| Version | 0.3 |
 | Responsible role | Namaa project leadership |
 | Created | 1 August 2026 |
-| Review status | Draft consolidation prepared; repository structural check passed on 1 August 2026 for six Markdown files and 24 local links; no specialist, legal, regulatory, or factual-currentness approval |
-| Source horizon | Evidence and funding sources reviewed during July 2026; training framework reviewed on 1 August 2026 |
+| Review status | Draft consolidation, standards-grounded quality requirements, and specialist-team handover package prepared; structural check passed on 1 August 2026 for ten Markdown files and 64 local links; no specialist, governing-body, legal, regulatory, ethics, or implementation approval |
+| Source horizon | Evidence and funding sources reviewed during July 2026; training, quality, safeguarding, and MEL sources reviewed on 1 August 2026 |
 | Access | Public repository; no personal or confidential data |
 | Documentation profile | Controlled |
 | Profile reason | The concept concerns children, disability inclusion, health information, safeguarding, possible personal data and AI, cross-border delivery, and external funding. |
-| Simplification | Decisions, assumptions, risks, and specialist handover requirements remain in this dossier until a separate owner or update cycle justifies another file. |
+| Simplification | The dossier remains the authoritative concept consolidation. Detailed quality, safeguarding, training, funding, evidence, and MEL procedures are maintained once in the linked supporting documents. |
 
 This dossier is the authoritative current consolidation of the Namaa concept. It records project direction at exploration stage; it is not evidence of approval, funding, validation, implementation readiness, legal clearance, or likely impact.
 
@@ -24,9 +24,13 @@ This dossier is the authoritative current consolidation of the Namaa concept. It
 | Topic | Authoritative current location | Status boundary |
 | --- | --- | --- |
 | Current Namaa concept and decisions | This project dossier | Draft consolidation; not an implementation approval |
+| Detailed Namaa quality domains and lifecycle gates | [Programme quality framework](../Quality%20Requirements/Programme%20quality%20framework.md) | Draft controls informed by international standards; not approved or independently verified |
 | Starting orientation and continuation decision | [Project start](../start/Project%20start.md) | Frozen historical starting record |
 | Problem and actor evidence | [Problem landscape and evidence](../modules/Problem%20landscape%20and%20evidence.md) | Dated desk synthesis; does not decide project scope |
-| Trainer, qualification, safeguarding, and training-related regulatory framework | [Training and qualification framework](../modules/Training%20and%20qualification%20framework.md) | Draft framework; open Syrian and implementation-specific questions remain |
+| Trainer, qualification, and training-related regulatory framework | [Training and qualification framework](../modules/Training%20and%20qualification%20framework.md) | Draft framework; open Syrian and implementation-specific questions remain |
+| Organisation-wide child safeguarding policy proposed for YISA | [Child safeguarding policy](../Quality%20Requirements/Child%20safeguarding%20policy.md) | Draft only; not adopted and no local reporting or referral annex exists |
+| Monitoring, evaluation, ethical evidence, and claims | [Monitoring, evaluation and learning framework](../Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md) | Draft only; no programme-specific indicators, tools, targets, ethics route, data plan, or pilot evidence |
+| Later programme-development tasks for the multidisciplinary team | [Specialist team handover tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md) | Proposed work package; no team appointed and no assignment issued |
 | Funding and support pathways | [Funding research](../modules/Funding%20research.md) | Snapshot dated 21 July 2026; live re-verification required |
 | Initial concept source | [First Namaa concept draft in the YISA repository](https://github.com/naserhussein64-art/Youth-initiative-in-Syria-and-Abroad/blob/main/Projects/Exploration/Namaa/Namaa%20Project%20Concept%20Draft.md) | Historical source only; this dossier controls where the documents differ |
 
@@ -136,7 +140,7 @@ Every programme must follow these principles before it can be considered for chi
 11. **Continuous improvement:** Feedback and implementation evidence lead to controlled revisions rather than uncontrolled local changes.
 12. **Honest status and certification:** Namaa does not claim official recognition, effectiveness, readiness, or accreditation without documented authority and evidence.
 
-The detailed training, qualification, safeguarding, data-protection, and permission framework is maintained in [Training and qualification framework](../modules/Training%20and%20qualification%20framework.md).
+Detailed controls are maintained in the [programme quality framework](../Quality%20Requirements/Programme%20quality%20framework.md), [child safeguarding policy](../Quality%20Requirements/Child%20safeguarding%20policy.md), [monitoring, evaluation and learning framework](../Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md), and [training and qualification framework](../modules/Training%20and%20qualification%20framework.md). These documents are drafts and do not authorise implementation.
 
 ## 9. Technology and artificial intelligence
 
@@ -262,11 +266,12 @@ If this dossier is approved for handover, the selected programme team would rece
 
 - this dossier and the problem/evidence module;
 - the [training and qualification framework](../modules/Training%20and%20qualification%20framework.md);
-- the selected target group and programme question;
+- the [programme quality framework](../Quality%20Requirements/Programme%20quality%20framework.md), [child safeguarding policy](../Quality%20Requirements/Child%20safeguarding%20policy.md), [monitoring, evaluation and learning framework](../Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md), and [specialist team handover tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md);
+- the retained target-group frame, candidate programme domains, and criteria for recommending the first bounded programme;
 - explicit safeguarding, inclusion, professional-boundary, data, and AI limits;
 - the expected review and decision process.
 
-The following specialist return package is proposed:
+The detailed task and return package is maintained in [Specialist team handover tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md). The specialist team first compares credible target-group and programme-domain combinations and submits a recommendation. Namaa project leadership records the selected first programme before detailed development continues. In summary, the following final specialist return package is proposed:
 
 1. a precise target age and eligibility frame;
 2. the evidence-supported need and intended outcome;
@@ -291,10 +296,12 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 ### Proposed sequence for Namaa project leadership approval
 
 1. Namaa project leadership reviews this dossier and either accepts it as the specialist handover baseline or records required changes.
-2. Select one first target group and one programme domain.
-3. Appoint the necessary subject, adult-learning, inclusion, safeguarding, and Syrian contextual leads.
-4. Ask the specialist team to prepare the defined return package.
-5. Review the resulting programme before any training, implementation, technology, pilot, or funding decision.
+2. Appoint the core education or child-development, inclusion, safeguarding, and Syrian contextual roles for option analysis and consult candidate-domain specialists where required.
+3. Ask the specialist team to compare credible target-group and programme-domain combinations and recommend one bounded first programme.
+4. Namaa project leadership records the selected first programme, requests revision, defers, or stops.
+5. Appoint the accountable subject and adult-learning leads required for the selected programme.
+6. Ask the specialist team to develop the selected programme and prepare the defined return package.
+7. Review the resulting programme before any training, implementation, technology, pilot, or funding decision.
 
 ### Stop or defer if
 
@@ -313,7 +320,7 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 - a documented working problem and retained target-group frame;
 - an agreed specialist-led development and delivery chain;
 - candidate programme domains and binding quality boundaries;
-- a desk-research synthesis, training framework, and funding snapshot;
+- a desk-research synthesis, training framework, funding snapshot, and draft quality, child-safeguarding, and MEL frameworks grounded in current international standards;
 - a proposed next-step sequence and proposed specialist return package.
 
 ### Not achieved or not approved
@@ -321,7 +328,8 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 - no final curriculum or specialist-approved programme;
 - no selected first target subgroup, city, cohort, partner, or funder;
 - no verified local permissions or implementation framework;
-- no completed safeguarding or referral system for a selected setting;
+- no governing-body adoption of the child-safeguarding policy and no completed safeguarding or referral system for a selected setting;
+- no appointed safeguarding, MEL, ethics, or data owners and no programme-specific quality-gate approval;
 - no software, training cohort, pilot, child-facing activity, or evaluation;
 - no current funding eligibility confirmation, application, award, or budget;
 - no professional, legal, data-protection, operational, pilot, or public-launch approval.
@@ -331,3 +339,5 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 | Version | Date | Change | Decision status |
 | --- | --- | --- | --- |
 | 0.1 | 1 August 2026 | Consolidated the retained project direction, later discussion decisions, evidence boundary, roles, quality principles, and handover requirements. | Draft for Namaa project leadership review |
+| 0.2 | 1 August 2026 | Added authoritative links to the draft programme quality, child safeguarding, and MEL frameworks and clarified that adoption, owners, local routes, ethics review, and gate approvals remain absent. | Draft for Namaa project leadership review |
+| 0.3 | 1 August 2026 | Grouped the three framework documents under Quality Requirements and added a bounded specialist-team task and return package that separates professional design work from YISA and implementation responsibilities. | Draft for Namaa project leadership review |

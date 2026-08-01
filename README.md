@@ -22,6 +22,13 @@ The repository follows the [Documentation Rules](https://github.com/naserhussein
 
 - [Project dossier](documentation/core/Project%20dossier.md) — the single authoritative current consolidation of the Namaa concept, decisions, roles, quality principles, assumptions, risks, and next decision.
 
+### Quality Requirements
+
+- [Programme quality framework](documentation/Quality%20Requirements/Programme%20quality%20framework.md) — proposed quality domains, evidence packages, lifecycle gates, roles, change control, and claim boundaries, grounded in international education and humanitarian standards.
+- [Child safeguarding policy](documentation/Quality%20Requirements/Child%20safeguarding%20policy.md) — proposed organisation-wide YISA policy for prevention, safer conduct, reporting, response, partner controls, digital safeguards, and local implementation gates.
+- [Monitoring, evaluation and learning framework](documentation/Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md) — proposed results logic, ethical evidence gate, indicator architecture, learning decisions, and limits on impact claims.
+- [Specialist team handover tasks](documentation/Quality%20Requirements/Specialist%20team%20handover%20tasks.md) — proposed later work package for the multidisciplinary team that will turn the concept into one specialist-approved programme.
+
 ### Research and specialist modules
 
 - [Problem landscape and evidence](documentation/modules/Problem%20landscape%20and%20evidence.md) — source-grounded Syria education and support context, actor landscape, constraints, and evidence limits.
@@ -42,6 +49,11 @@ Namaa/
 │   │   └── Project start.md
 │   ├── core/
 │   │   └── Project dossier.md
+│   ├── Quality Requirements/
+│   │   ├── Child safeguarding policy.md
+│   │   ├── Monitoring evaluation and learning framework.md
+│   │   ├── Programme quality framework.md
+│   │   └── Specialist team handover tasks.md
 │   ├── modules/
 │   │   ├── Problem landscape and evidence.md
 │   │   ├── Training and qualification framework.md

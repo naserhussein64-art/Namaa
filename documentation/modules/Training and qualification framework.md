@@ -1,10 +1,12 @@
 # Namaa Training and Qualification Framework
 
 - **Document status:** Draft
-- **Version:** 0.1
+- **Version:** 0.3
 - **Research review date:** 1 August 2026
 - **Responsible role:** Namaa project leadership
 - **Current project phase:** Exploration and concept development
+
+Related controlled drafts: [Programme quality framework](../Quality%20Requirements/Programme%20quality%20framework.md), [YISA Child Safeguarding Policy for Namaa](../Quality%20Requirements/Child%20safeguarding%20policy.md), [Monitoring, Evaluation and Learning Framework](../Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md), and [Specialist Team Handover Tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md).
 
 ## Purpose and status
 
@@ -56,7 +58,7 @@ Individual teachers and other private persons may act as participants, trainers,
 
 ## Safeguarding and suitability to work with children
 
-Safeguarding must be built into trainer selection, programme design, training delivery, local implementation, supervision, and incident response. Namaa should adopt a child-safeguarding policy, a binding code of conduct, a safeguarding risk assessment, safe recruitment procedures, a designated safeguarding lead, confidential reporting routes, a response protocol, and locally workable referral pathways. The [UNICEF Safeguarding Policy](https://www.unicef.org/documents/safeguarding-policy) provides a relevant international reference for embedding safeguarding in organisational processes rather than treating it as a one-time course.
+Safeguarding must be built into trainer selection, programme design, training delivery, local implementation, supervision, and incident response. A detailed [YISA Child Safeguarding Policy for Namaa](../Quality%20Requirements/Child%20safeguarding%20policy.md) has now been drafted from current international standards. It remains unadopted and does not yet contain the verified local reporting and referral annex required before child contact. Its controls include a binding code of conduct, safeguarding risk assessment, safer recruitment, designated safeguarding roles, accessible reporting routes, response procedures, partner controls, digital safeguards, and local implementation gates.
 
 German specialists who train adults and have no access to children do not automatically require an extended German certificate of conduct solely because they provide the training. If their role creates direct, recurring, or comparable contact with children, Namaa should conduct a risk-based assessment and normally require the appropriate background evidence. German statutory requirements can also arise in child and youth welfare arrangements depending on the nature, intensity, and duration of contact; see [Section 72a of Book VIII of the German Social Code](https://www.gesetze-im-internet.de/sgb_8/__72a.html). Equivalent local screening for Syrian personnel should be required to the extent that reliable procedures and records are available. The exact Syrian screening mechanism is **not verified**.
 
@@ -99,10 +101,18 @@ The following matters remain open and should be resolved only when they become r
 - insurance coverage for the selected delivery model; and
 - entry, work authorisation, and security arrangements if on-site training is later considered.
 
-Before training begins, Namaa project leadership should confirm that the trainer-selection process, programme package, local written authorisation, safeguarding system, data-protection arrangements, technology, insurance, assessment model, supervision capacity, and certificate wording are ready. Before work with children begins, a second and separate readiness decision should confirm the local delivery team, venue, safeguarding and referral capability, programme version, supervision plan, and permitted scope.
+Before training begins, Namaa project leadership should apply the training and facilitator readiness controls in the [Programme Quality Framework](../Quality%20Requirements/Programme%20quality%20framework.md) and confirm that the trainer-selection process, programme package, local written authorisation, safeguarding system, data-protection arrangements, technology, insurance, assessment model, supervision capacity, and certificate wording are ready. Before work with children begins, the separate local-delivery and pilot-readiness gate must confirm the local host and team, venue, permissions, safeguarding and referral capability, approved programme version, supervision, data and MEL arrangements, resources, and permitted scope.
 
 ## Current recommendation
 
 Namaa should proceed on the basis of a free, non-formal, remote-first training model for adults. It should appoint specialists through documented competence criteria, require internal safeguarding and programme-specific qualification, assess teachers and facilitators through practical demonstration, issue only accurately described Namaa participation or completion certificates, and obtain written Syrian authorisation before the first cohort. Formal accreditation may be considered later, but it should not delay the development of a robust internal training and quality framework.
 
 This recommendation is a planning position. It is not a legal opinion, regulatory approval, curriculum approval, pilot approval, or authorisation to begin delivery with children.
+
+## Change history
+
+| Version | Date | Change | Decision status |
+| --- | --- | --- | --- |
+| 0.1 | 1 August 2026 | Initial training and qualification framework | Draft |
+| 0.2 | 1 August 2026 | Linked the dedicated quality, child-safeguarding, and MEL frameworks and clarified their draft and pre-delivery gate status | Draft |
+| 0.3 | 1 August 2026 | Updated links for the Quality Requirements folder and connected the proposed specialist-team handover work package | Draft |
