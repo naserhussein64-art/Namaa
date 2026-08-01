@@ -6,24 +6,26 @@
 | --- | --- |
 | Project | Namaa |
 | Related starting record | [Project start](../start/Project%20start.md) |
-| Document status | Draft |
+| Document status | Approved working and specialist-handover baseline |
 | Version | 0.3 |
 | Responsible role | Namaa project leadership |
 | Created | 1 August 2026 |
-| Review status | Draft consolidation, standards-grounded quality requirements, and specialist-team handover package prepared; structural check passed on 1 August 2026 for ten Markdown files and 64 local links; no specialist, governing-body, legal, regulatory, ethics, or implementation approval |
+| Approval record | Accepted by Namaa project leadership on 1 August 2026 |
+| Approval boundary | This approval does not authorise training, child contact, a pilot, implementation, a funding commitment, or public launch. |
+| Review status | Working and specialist-handover baseline approved; structural check passed on 1 August 2026 for ten Markdown files and 65 local links; no specialist, governing-body policy, legal, regulatory, ethics, programme, or implementation approval |
 | Source horizon | Evidence and funding sources reviewed during July 2026; training, quality, safeguarding, and MEL sources reviewed on 1 August 2026 |
 | Access | Public repository; no personal or confidential data |
 | Documentation profile | Controlled |
 | Profile reason | The concept concerns children, disability inclusion, health information, safeguarding, possible personal data and AI, cross-border delivery, and external funding. |
 | Simplification | The dossier remains the authoritative concept consolidation. Detailed quality, safeguarding, training, funding, evidence, and MEL procedures are maintained once in the linked supporting documents. |
 
-This dossier is the authoritative current consolidation of the Namaa concept. It records project direction at exploration stage; it is not evidence of approval, funding, validation, implementation readiness, legal clearance, or likely impact.
+This dossier is the authoritative current consolidation and approved working and specialist-handover baseline for the Namaa concept. It records project direction at exploration stage; it is not evidence of programme approval, funding, validation, implementation readiness, legal clearance, or likely impact.
 
 ### Authoritative document map
 
 | Topic | Authoritative current location | Status boundary |
 | --- | --- | --- |
-| Current Namaa concept and decisions | This project dossier | Draft consolidation; not an implementation approval |
+| Current Namaa concept and decisions | This project dossier | Approved working and specialist-handover baseline; not a programme or implementation approval |
 | Detailed Namaa quality domains and lifecycle gates | [Programme quality framework](../Quality%20Requirements/Programme%20quality%20framework.md) | Draft controls informed by international standards; not approved or independently verified |
 | Starting orientation and continuation decision | [Project start](../start/Project%20start.md) | Frozen historical starting record |
 | Problem and actor evidence | [Problem landscape and evidence](../modules/Problem%20landscape%20and%20evidence.md) | Dated desk synthesis; does not decide project scope |
@@ -52,7 +54,7 @@ Namaa is in concept development. It is not an approved programme, operating serv
 
 ### Next consequential decision
 
-Namaa project leadership must decide whether this dossier is sufficiently clear to serve as the formal handover baseline for specialists. If accepted, the next selection is the first target group and programme area, followed by appointment of the relevant specialist leads.
+Namaa project leadership has accepted version 0.3 as the working and specialist-handover baseline. The next consequential step is to appoint the core option-analysis roles and commission ST-01 in the [Specialist Team Handover Tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md). The team first compares credible target-group and programme-domain combinations and submits a recommendation; Namaa project leadership then selects, requests revision, defers, or stops.
 
 ### Success for the current phase
 
@@ -197,7 +199,7 @@ The detailed currently available training-related analysis is maintained in [Tra
 
 ## 12. Material decisions
 
-The deciding role for DEC-001 through DEC-008 is **Namaa project leadership**. The original dates of the discussion decisions were not separately recorded. The table consolidates them on 1 August 2026 without inventing historical decision dates.
+The deciding role for DEC-001 through DEC-009 is **Namaa project leadership**. The original dates of DEC-001 through DEC-008 were not separately recorded; those rows were consolidated on 1 August 2026 without inventing historical decision dates. DEC-009 was expressly confirmed on 1 August 2026.
 
 | ID | Question and considered direction | Decision | Reason and boundary | Status |
 | --- | --- | --- | --- | --- |
@@ -209,6 +211,7 @@ The deciding role for DEC-001 through DEC-008 is **Namaa project leadership**. T
 | DEC-006 | Is standalone local validation the current primary workstream? | No. The current workstream is concept maturity and specialist preparation. | Location-specific readiness checks remain necessary before implementation but are not the present project package. | Decided; supersedes earlier sequencing |
 | DEC-007 | Are broad programme areas already curricula? | No. They are candidate domains within a modular concept. | Specialists must determine age, objectives, methods, evidence, and sequence. | Decided boundary |
 | DEC-008 | Is AI a mandatory core solution? | No. AI may later support reviewed preparation, accessibility, documentation, or evaluation. | A non-AI comparison and explicit value, data, and safety case are required before adoption. | Decided boundary; component open |
+| DEC-009 | Can Project Dossier version 0.3 serve as the working and specialist-handover baseline? | Yes. Appoint a core specialist group to compare programme options before Namaa leadership selects the first bounded programme. | The decision authorises the specialist-development phase only. It does not authorise training, child contact, a pilot, implementation, funding commitments, or public launch. | Decided on 1 August 2026 |
 
 ## 13. Evidence, assumptions, and external dependencies
 
@@ -291,11 +294,11 @@ Creating these materials does not authorise delivery. A later, clearly defined g
 
 The existing [funding research](../modules/Funding%20research.md) is a dated research snapshot, not a funding strategy, current eligibility confirmation, selected funder, or application decision. Programme availability, deadlines, amounts, partner rules, Syria coverage, and transfer feasibility must be checked again after the first programme scope is selected and before any contact or application.
 
-## 18. Proposed next steps and stop conditions
+## 18. Current next steps and stop conditions
 
-### Proposed sequence for Namaa project leadership approval
+### Recorded sequence
 
-1. Namaa project leadership reviews this dossier and either accepts it as the specialist handover baseline or records required changes.
+1. **Completed on 1 August 2026:** Namaa project leadership accepted version 0.3 as the working and specialist-handover baseline.
 2. Appoint the core education or child-development, inclusion, safeguarding, and Syrian contextual roles for option analysis and consult candidate-domain specialists where required.
 3. Ask the specialist team to compare credible target-group and programme-domain combinations and recommend one bounded first programme.
 4. Namaa project leadership records the selected first programme, requests revision, defers, or stops.
@@ -316,12 +319,12 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 
 ### Currently achieved
 
-- a draft consolidation of the exploration-stage concept;
+- an approved working and specialist-handover baseline for the exploration-stage concept;
 - a documented working problem and retained target-group frame;
 - an agreed specialist-led development and delivery chain;
 - candidate programme domains and binding quality boundaries;
 - a desk-research synthesis, training framework, funding snapshot, and draft quality, child-safeguarding, and MEL frameworks grounded in current international standards;
-- a proposed next-step sequence and proposed specialist return package.
+- an accepted next-step sequence and a defined but unassigned specialist task and return package.
 
 ### Not achieved or not approved
 
@@ -340,4 +343,4 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 | --- | --- | --- | --- |
 | 0.1 | 1 August 2026 | Consolidated the retained project direction, later discussion decisions, evidence boundary, roles, quality principles, and handover requirements. | Draft for Namaa project leadership review |
 | 0.2 | 1 August 2026 | Added authoritative links to the draft programme quality, child safeguarding, and MEL frameworks and clarified that adoption, owners, local routes, ethics review, and gate approvals remain absent. | Draft for Namaa project leadership review |
-| 0.3 | 1 August 2026 | Grouped the three framework documents under Quality Requirements and added a bounded specialist-team task and return package that separates professional design work from YISA and implementation responsibilities. | Draft for Namaa project leadership review |
+| 0.3 | 1 August 2026 | Grouped the three framework documents under Quality Requirements, added a bounded specialist-team task and return package, aligned the option-analysis sequence, and recorded the leadership decision. | Accepted as working and specialist-handover baseline; not a programme or implementation approval |
