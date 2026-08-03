@@ -1,14 +1,14 @@
 # Namaa Training and Qualification Framework
 
 - **Document status:** Draft
-- **Version:** 0.4
+- **Version:** 0.5
 - **Research review date:** 1 August 2026
 - **Responsible role:** Namaa project leadership
 - **Current project phase:** Exploration and concept development
 
 Related controlled documents: the provisionally accepted [Programme quality framework](../Quality%20Requirements/Programme%20quality%20framework.md), [YISA Child Safeguarding Policy for Namaa](../Quality%20Requirements/Child%20safeguarding%20policy.md), and [Monitoring, Evaluation and Learning Framework](../Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md), together with the provisionally accepted [Specialist Team Handover Tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md). Detailed specialist review and all later approvals remain outstanding.
 
-Authoritative project decisions are maintained in [Project Dossier 0.4](../core/Project%20dossier.md), especially DEC-012 through DEC-015 and CHG-001. This framework applies those decisions but does not create a parallel approval record.
+Authoritative project decisions are maintained in [Project Dossier 0.5](../core/Project%20dossier.md), especially DEC-012 through DEC-016, CHG-001, and CHG-002. This framework applies those decisions but does not create a parallel approval record.
 
 ## Purpose and status
 
@@ -31,6 +31,8 @@ The fact that Namaa's specialists work voluntarily is not, on its own, decisive 
 Namaa should distinguish legal permission from internal suitability. The absence of a general state trainer licence does not mean that any available person should train teachers. Each trainer should demonstrate both relevant subject expertise and the ability to train adults. Namaa should verify identity, qualifications, professional experience, references, prior teaching or facilitation experience, language capacity, and any conflicts of interest before appointment. Each trainer should also sign a written role description, confidentiality undertaking, intellectual-property agreement, safeguarding code of conduct, and acknowledgement of the limits of the assigned role.
 
 For every selected programme, the responsible specialist team defines the proportionate minimum competence profile and evidence for each trainer and facilitator role, together with the practical assessment and programme-specific authorisation criteria. Namaa leadership verifies the submitted evidence and records the formal appointment or authorisation. An initial group with education and child-support experience exists, but its detailed composition, competence coverage, responsibilities, availability, and formal assignment are not documented in this public framework.
+
+The designated Namaa programme manager is intended to contribute later to training Syrian teachers or facilitators. This intended role is not a trainer appointment or current authorisation. The same programme-specific competence evidence, conflict review, safeguarding suitability, other required independent reviews, and NQ-G2a decision apply; the programme manager must not approve his own trainer suitability alone.
 
 Subject expertise should match the programme being developed. School learning and catch-up content should be led by qualified education professionals. Inclusive education should involve specialists with demonstrable experience in disability inclusion and accessible learning. General health and puberty education does not make trainers or facilitators healthcare providers and does not automatically require a medical trainer. The specialist team must ensure that the information is accurate, age-appropriate, source-based, and within Namaa's non-clinical boundary, and must determine the proportionate review competence needed for the exact topic. Any proposed clinical, illness-specific, diagnostic, therapeutic, or individual-advice element would fall outside the current concept and require reassessment and appropriate professional involvement. Psychosocial and child-protection content should be led by professionals whose competence matches the intended intervention. Sport and movement content should involve appropriately qualified sport or movement professionals, while coding and digital-learning content should combine technical expertise with educational expertise.
 
@@ -121,3 +123,4 @@ This recommendation is a planning position. It is not a legal opinion, regulator
 | 0.2 | 1 August 2026 | Linked the dedicated quality, child-safeguarding, and MEL frameworks and clarified their draft and pre-delivery gate status | Draft |
 | 0.3 | 1 August 2026 | Updated links for the Quality Requirements folder and connected the proposed specialist-team handover work package | Draft |
 | 0.4 | 2 August 2026 | Aligned trainer-competence ownership, the existing specialist-group status, Arabic-default materials, non-clinical health and puberty education, and the provisional Quality Requirements review basis with Project Dossier 0.4. | Draft framework; detailed specialist and implementation-specific review pending |
+| 0.5 | 3 August 2026 | Aligned the framework with the programme-manager designation and recorded the boundary between an intended training contribution and later named-trainer authorisation. | Draft framework; programme-specific competence review and NQ-G2a remain required |

@@ -7,15 +7,15 @@
 | Project | Namaa |
 | Related starting record | [Project start](../start/Project%20start.md) |
 | Document status | Approved working and specialist-handover baseline |
-| Version | 0.4 |
+| Version | 0.5 |
 | Responsible role | Namaa project leadership |
 | Created | 1 August 2026 |
-| Last updated | 2 August 2026 |
-| Approval record | Version 0.3 was accepted by Namaa project leadership on 1 August 2026. The concept clarifications in CHG-001 and the provisional Quality Requirements review basis were confirmed on 2 August 2026. |
+| Last updated | 3 August 2026 |
+| Approval record | Version 0.3 was accepted by Namaa project leadership on 1 August 2026. The concept clarifications in CHG-001 and the provisional Quality Requirements review basis were confirmed on 2 August 2026. Fadi Houli's designation as programme manager and the delegation recorded in DEC-016 and CHG-002 were confirmed by Namaa project leadership on 3 August 2026. |
 | Approval boundary | This approval does not authorise training, child contact, a pilot, implementation, a funding commitment, or public launch. |
-| Review status | Working and specialist-handover baseline approved; the three Quality Requirements frameworks are provisionally accepted for detailed specialist review; structural check passed on 2 August 2026 for ten Markdown files and 74 local links; no final specialist, governing-body policy, legal, regulatory, ethics, programme, training, pilot, or implementation approval |
+| Review status | Working and specialist-handover baseline approved; the three Quality Requirements frameworks are provisionally accepted for detailed specialist review; structural check passed on 3 August 2026 for ten Markdown files and 76 local links; no final specialist, governing-body policy, legal, regulatory, ethics, programme, training, pilot, or implementation approval |
 | Source horizon | Evidence and funding sources reviewed during July 2026; training, quality, safeguarding, and MEL sources reviewed on 1 August 2026 |
-| Access | Public repository; no personal or confidential data |
+| Access | Public repository; only the approved public role designation is recorded. Personal competence evidence, contact details, employment or education records, conflict declarations, and confidential material belong in a restricted system. |
 | Documentation profile | Controlled |
 | Profile reason | The concept concerns children, disability inclusion, health information, safeguarding, possible personal data and AI, cross-border delivery, and external funding. |
 | Simplification | The dossier remains the authoritative concept consolidation. Detailed quality, safeguarding, training, funding, evidence, and MEL procedures are maintained once in the linked supporting documents. |
@@ -33,7 +33,7 @@ This dossier is the authoritative current consolidation and approved working and
 | Trainer, qualification, and training-related regulatory framework | [Training and qualification framework](../modules/Training%20and%20qualification%20framework.md) | Draft framework; the identified specialist group must define programme-specific competence criteria; open Syrian and implementation-specific questions remain |
 | Organisation-wide child safeguarding policy proposed for YISA | [Child safeguarding policy](../Quality%20Requirements/Child%20safeguarding%20policy.md) | Provisionally accepted working and specialist-review basis; not adopted by the YISA governing body and no local reporting or referral annex exists |
 | Monitoring, evaluation, ethical evidence, and claims | [Monitoring, evaluation and learning framework](../Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md) | Provisionally accepted working and specialist-review basis; no programme-specific indicators, tools, targets, ethics route, data plan, or pilot evidence |
-| Programme-development tasks for the specialist group | [Specialist team handover tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md) | Current provisional work package for an identified initial specialist group; programme-specific competence coverage, formal role allocation, and assignment remain to be documented |
+| Programme-development tasks for the specialist group | [Specialist team handover tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md) | Current provisional work package; Fadi Houli is designated as programme manager, while programme-specific team composition, competence coverage, formal role allocation, and assignment remain to be documented |
 | Funding and support pathways | [Funding research](../modules/Funding%20research.md) | Snapshot dated 21 July 2026; live re-verification required |
 | Initial concept source | [First Namaa concept draft in the YISA repository](https://github.com/naserhussein64-art/Youth-initiative-in-Syria-and-Abroad/blob/main/Projects/Exploration/Namaa/Namaa%20Project%20Concept%20Draft.md) | Historical source only; this dossier controls where the documents differ |
 
@@ -61,7 +61,7 @@ Namaa is in concept development. It is not an approved programme, operating serv
 
 ### Next consequential decision
 
-Namaa project leadership has accepted this dossier as the working and specialist-handover baseline. An initial group of people with education and child-support experience already exists and wishes to continue developing Namaa. The next consequential step is to document its programme-management interface and specialist roles, issue the [Specialist Team Handover Tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md), and ask the group to recommend one coherent first programme. Namaa project leadership then selects, requests revision, defers, or stops.
+Namaa project leadership has accepted this dossier as the working and specialist-handover baseline and designated Fadi Houli as programme manager for the specialist-development phase. An initial group of people with education and child-support experience already exists and wishes to continue developing Namaa. The next consequential step is for Fadi to coordinate documentation of the remaining specialist-team roles, programme-specific competence coverage, availability, conflicts, and assignment acceptance. The assigned team then completes ST-01 in the [Specialist Team Handover Tasks](../Quality%20Requirements/Specialist%20team%20handover%20tasks.md) and recommends one coherent first programme. Namaa project leadership then selects, requests revision, defers, or stops.
 
 ### Success for the current phase
 
@@ -127,7 +127,7 @@ Remote training from Germany is the current recommended starting model because t
 | Role | Responsibility | Boundary |
 | --- | --- | --- |
 | YISA/Namaa leadership | Concept ownership, governance, scope, safeguarding system, partner coordination, documentation, funding decisions, and quality oversight. | Does not replace professional judgement or local authority. |
-| Namaa programme manager | A YISA member with relevant professional expertise will manage the programme-development process, coordinate the specialist interface, maintain the organisational workstream, and report to Namaa leadership. | The role does not replace collective specialist review, safeguarding independence, governing-body decisions, or required external approval. The role model is decided; individual designation and written appointment remain pending. |
+| Namaa programme manager | Fadi Houli is designated for the specialist-development phase. He coordinates the remaining team setup, role and competence mapping, assignment preparation, specialist interface, document flow, schedule, and escalation to Namaa leadership. | He may organise the professional team workstream within the recorded mandate, but does not replace collective specialist review, independent safeguarding authority, governing-body decisions, or required external approval. His intended later participation in training Syrian teachers or facilitators remains subject to programme-specific competence evidence, independent review, and NQ-G2a authorisation; this designation does not authorise training now. |
 | Identified initial specialist group | Brings existing experience in education and support for children and is intended to develop the programme once formally assigned. For each programme, the team will define the minimum competence, assessment, and authorisation criteria for trainers and Syrian teachers or facilitators. | The group's exact composition, programme-specific competence coverage, individual responsibilities, availability, and formal assignment must still be documented. Its existence is not programme approval or authorisation to train or work with children. |
 | Subject specialists based in Germany | Develop and review programme content and train adults within their documented competence. | No general authority outside their discipline; volunteer status does not remove accountability. |
 | Adult-learning or teacher-development specialists | Design a suitable training and competence-assessment process for Syrian teachers or facilitators. | A participation certificate alone does not authorise work with children. |
@@ -136,7 +136,7 @@ Remote training from Germany is the current recommended starting model because t
 | Local implementation framework, legal form still open | Provide accountable local coordination, safeguarding arrangements, supervision, referral links, and any permissions required for the selected activity. | No organisation or legal route is confirmed; the exact Syrian requirements remain unverified. |
 | Private individuals | May contribute as specialists, trainers, facilitators, or local contacts. | They do not by themselves replace an authorised host, safeguarding structure, or required authority coordination. |
 
-The current model assumes that early specialist contributions may be voluntary. The final appointment, contract, expense, insurance, liability, and availability arrangements have not been decided.
+The current model assumes that early specialist contributions may be voluntary. The programme-manager designation is an organisational project decision and does not by itself establish employment, volunteer, contractual, insurance, or external-representation status. Final appointment terms, expenses, insurance, liability, availability, and conflict arrangements for the team remain to be documented in the appropriate restricted records.
 
 ## 8. Binding quality principles
 
@@ -212,7 +212,7 @@ The detailed currently available training-related analysis is maintained in [Tra
 
 ## 12. Material decisions
 
-The deciding role for DEC-001 through DEC-015 is **Namaa project leadership**. The original dates of DEC-001 through DEC-008 were not separately recorded; those rows were consolidated on 1 August 2026 without inventing historical decision dates. DEC-009 was expressly confirmed on 1 August 2026. DEC-010 through DEC-015 were confirmed on 2 August 2026.
+The deciding role for DEC-001 through DEC-016 is **Namaa project leadership**. The original dates of DEC-001 through DEC-008 were not separately recorded; those rows were consolidated on 1 August 2026 without inventing historical decision dates. DEC-009 was expressly confirmed on 1 August 2026. DEC-010 through DEC-015 were confirmed on 2 August 2026. DEC-016 was confirmed on 3 August 2026.
 
 | ID | Question and considered direction | Decision | Reason and boundary | Status |
 | --- | --- | --- | --- | --- |
@@ -231,6 +231,7 @@ The deciding role for DEC-001 through DEC-015 is **Namaa project leadership**. T
 | DEC-013 | How will the specialist phase be organised? | Use the existing interested group with education and child-support experience. A professionally knowledgeable YISA member manages the programme-development process, while the specialist team defines programme-specific minimum competence criteria for trainers and facilitators. | Formal role allocation, competence evidence, availability, conflicts, and assignment must still be documented. Management does not replace specialist, safeguarding, governing-body, or external authority decisions. | Decided on 2 August 2026 |
 | DEC-014 | What is the boundary of Namaa's health and puberty content? | Limit it to simple, accurate, age-appropriate, non-clinical education and support about health, bodies, development, and puberty. | Namaa does not provide diagnosis, treatment, therapy, psychotherapy, disease management, or individual medical advice. The specialist team determines proportionate content competence and review. | Decided on 2 August 2026 |
 | DEC-015 | What is the status of the Programme Quality, Child Safeguarding, and MEL frameworks? | Accept them as provisional working and detailed specialist-review bases. | The decision prevents the specialist team from having to recreate the concept-level safeguards. It is not final specialist approval, formal governing-body adoption of the child policy, legal clearance, or authorisation for training, child contact, a pilot, or implementation. | Decided on 2 August 2026 |
+| DEC-016 | Who will manage the specialist-development phase and organise the remaining team work? | Designate Fadi Houli as Namaa programme manager. He coordinates the remaining team setup, role and competence mapping, availability and conflict clarification, assignment preparation, and the specialist workstream. He is also intended to contribute later to training Syrian teachers or facilitators. | Namaa leadership delegates professional team organisation because detailed team decisions require appropriate professional coordination. Leadership retains scope, governance, safeguarding-policy, partner, funding, gate, pilot, child-contact, and public-claim decisions. Fadi's own trainer role requires programme-specific competence evidence and review by the other required roles; no current training or child-contact authorisation results. No external employer or organisation is represented as participating in or endorsing Namaa through this decision. | Decided on 3 August 2026 |
 
 ## 13. Evidence, assumptions, and external dependencies
 
@@ -282,7 +283,7 @@ No option has yet been selected for implementation.
 
 ## 16. Current specialist handover package
 
-Through DEC-009 and its CHG-001 update, the following package is accepted as the provisional working basis for the identified specialist group. Detailed specialist review, formal role allocation, and an attributable assignment record remain outstanding. Acceptance of the basis does not transfer operational responsibility or authorise training, child contact, data collection, a pilot, or implementation.
+Through DEC-009, CHG-001, and CHG-002, the following package is accepted as the provisional working basis for the identified specialist group. Fadi Houli is the designated programme manager and organisational interface for the specialist-development phase. Detailed team composition, specialist review, formal role allocation, competence evidence, availability, conflict records, and an attributable team-assignment record remain outstanding. Acceptance of the basis and the manager designation do not transfer operational responsibility or authorise training, child contact, data collection, a pilot, or implementation.
 
 The identified specialist group should receive:
 
@@ -319,11 +320,12 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 
 1. **Completed on 1 August 2026:** Namaa project leadership accepted version 0.3 as the working and specialist-handover baseline.
 2. **Completed on 2 August 2026:** the current general desk-research round was closed for concept development, the long-term vision and programme boundaries were clarified, and the three Quality Requirements frameworks were provisionally accepted for detailed specialist review.
-3. Document the programme manager and the existing group's formal roles, competence coverage, availability, conflicts, and assignment.
-4. Ask the specialist team to recommend one bounded first programme using the working criteria: a material learning or support need, meaningful additional value, safe and professionally responsible delivery, inclusive and practical design, and a measurable short-term learning or support outcome. The general need does not require revalidation or subgroup ranking.
-5. Namaa project leadership records the selected first programme, requests revision, defers, or stops.
-6. Ask the specialist team to develop the selected programme and prepare the defined return package.
-7. Review the resulting programme before any training, implementation, technology, pilot, or funding decision.
+3. **Completed on 3 August 2026:** Fadi Houli was designated as programme manager for the specialist-development phase, with responsibility for coordinating the remaining team setup and specialist workstream. His intended later training contribution was recorded without authorising training.
+4. Fadi Houli coordinates documentation of the existing group's composition, formal roles, programme-specific competence coverage, availability, conflicts, assignment acceptance, and any missing specialist input.
+5. Ask the specialist team to recommend one bounded first programme using the working criteria: a material learning or support need, meaningful additional value, safe and professionally responsible delivery, inclusive and practical design, and a measurable short-term learning or support outcome. The general need does not require revalidation or subgroup ranking.
+6. Namaa project leadership records the selected first programme, requests revision, defers, or stops.
+7. Ask the specialist team to develop the selected programme and prepare the defined return package.
+8. Review the resulting programme before any training, implementation, technology, pilot, or funding decision.
 
 ### Stop or defer if
 
@@ -342,7 +344,7 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 - a long-term vision and intended German-based, diaspora-linked, locally delivered contribution, clearly separated from present reach or impact;
 - a documented working problem and retained target-group frame;
 - an agreed specialist-led development and delivery chain;
-- an identified initial specialist group and programme-management role, with controlled role, competence, and assignment records still pending;
+- an identified initial specialist group and Fadi Houli designated as programme manager for the specialist-development phase, with the remaining controlled team-role, competence, availability, conflict, and assignment records still pending;
 - candidate programme domains and binding quality boundaries;
 - a completed desk-research synthesis for the current concept decision, a training framework, a dated funding snapshot, and provisionally accepted quality, child-safeguarding, and MEL review frameworks grounded in international standards;
 - an accepted next-step sequence and a defined but unassigned specialist task and return package.
@@ -367,6 +369,7 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 | 0.2 | 1 August 2026 | Added authoritative links to the draft programme quality, child safeguarding, and MEL frameworks and clarified that adoption, owners, local routes, ethics review, and gate approvals remain absent. | Draft for Namaa project leadership review |
 | 0.3 | 1 August 2026 | Grouped the three framework documents under Quality Requirements, added a bounded specialist-team task and return package, aligned the option-analysis sequence, and recorded the leadership decision. | Accepted as working and specialist-handover baseline; not a programme or implementation approval |
 | 0.4 / CHG-001 | 2 August 2026 | Recorded the confirmed long-term vision, current research boundary, Arabic-default language, identified specialist group, programme-management model, non-clinical health and puberty scope, provisional Quality Requirements review basis, and revised handover sequence. | Accepted update to the working and specialist-handover baseline; detailed specialist review remains required; no training, child-contact, pilot, implementation, funding, or public-launch approval |
+| 0.5 / CHG-002 | 3 August 2026 | Designated Fadi Houli as programme manager, delegated coordination of the remaining team setup and specialist workstream, and recorded his intended later training contribution with the applicable authorisation boundary. | Accepted role update; team mapping and assignment remain incomplete; no training, child-contact, pilot, implementation, funding, or public-launch approval |
 
 ### CHG-001 — Post-baseline concept clarification
 
@@ -381,3 +384,18 @@ The existing [funding research](../modules/Funding%20research.md) is a dated res
 - **Outcome:** The updated package is the current working and specialist-handover baseline. Detailed specialist review, formal team records, governing-body policy adoption, programme selection, and all later readiness decisions remain outstanding.
 - **Affected baselines:** Project Dossier 0.3 is superseded by 0.4. The linked documents record their own aligned revisions.
 - **Required later review:** Programme-specific specialist review and NQ-G1; formal YISA child-policy adoption; training, local-delivery, legal, data, ethics, safeguarding, and funding checks at their applicable gates.
+
+### CHG-002 — Programme-manager designation and team-coordination delegation
+
+- **Trigger:** Namaa leadership identified the person who will manage the specialist-development phase and clarified the delegation for the remaining team work.
+- **Reason:** The specialist workstream requires an accountable organisational interface and professionally coordinated team setup before the initial group can be relied upon for programme development.
+- **Scope impact:** Fadi Houli is designated as programme manager. He coordinates team composition, role and competence mapping, availability and conflict clarification, assignment preparation, and the specialist workstream. His intended later contribution to training Syrian teachers or facilitators is recorded as a planned role only.
+- **Risk, safeguarding, and professional-boundary impact:** Fadi's own trainer suitability cannot be approved solely by himself. It remains subject to the programme-specific criteria, evidence, independent required reviews, safeguarding checks, and NQ-G2a. No safeguarding independence, professional review, or gate requirement is removed.
+- **Resource, cost, and schedule impact:** The designation does not establish remuneration, employment, volunteer, insurance, liability, expense, availability, or scheduling commitments. Those matters and the remaining team's capacity must be documented separately.
+- **Law, contract, privacy, and external-affiliation impact:** The public repository records only the approved role designation and decision boundary. Personal evidence and conflict records belong in a restricted system. No employer, external organisation, partner, or authority is represented as participating in or endorsing Namaa through this decision.
+- **Evidence and funding impact:** No external evidence or funding entry was re-verified and no funding, partner, or application decision results.
+- **Publication impact:** The existing project-summary PDF remains a dated 2 August 2026 snapshot based on Project Dossier 0.4. It is not regenerated by this change; Project Dossier 0.5 controls where the snapshot differs.
+- **Decision authority and date:** Namaa project leadership, 3 August 2026.
+- **Outcome:** The programme-manager role is designated. The remaining team composition, competence coverage, availability, conflicts, assignment acceptance, first-programme recommendation, and all later gate decisions remain outstanding.
+- **Affected baselines:** Project Dossier 0.4 is superseded by 0.5. Specialist Team Handover Tasks 0.2 is aligned through version 0.3, Programme Quality Framework 0.2 through version 0.3, and Training and Qualification Framework 0.4 through version 0.5.
+- **Required later review:** Restricted appointment and competence records; specialist-team assignment acceptance; ST-01; programme-specific review at NQ-G1; named-trainer review at NQ-G2a; and all applicable organisational, legal, safeguarding, data, and local-readiness checks.
