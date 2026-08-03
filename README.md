@@ -29,7 +29,7 @@ The repository follows the [Documentation Rules](https://github.com/naserhussein
 - [Programme quality framework](documentation/Quality%20Requirements/Programme%20quality%20framework.md) — provisionally accepted working and specialist-review basis for quality domains, evidence packages, lifecycle gates, roles, change control, and claim boundaries.
 - [Child safeguarding policy](documentation/Quality%20Requirements/Child%20safeguarding%20policy.md) — provisionally accepted working and specialist-review basis for prevention, safer conduct, reporting, response, partner controls, digital safeguards, and local implementation gates; it is not adopted by the YISA governing body.
 - [Monitoring, evaluation and learning framework](documentation/Quality%20Requirements/Monitoring%20evaluation%20and%20learning%20framework.md) — provisionally accepted working and specialist-review basis for results logic, ethical evidence, indicators, learning decisions, and limits on impact claims.
-- [Specialist team handover tasks](documentation/Quality%20Requirements/Specialist%20team%20handover%20tasks.md) — provisionally accepted work package for the identified initial specialist group; formal role allocation and assignment remain pending.
+- [Specialist team handover tasks](documentation/Quality%20Requirements/Specialist%20team%20handover%20tasks.md) — provisionally accepted work package for the identified initial specialist group; the programme manager is designated, while the remaining specialist-team role allocation and assignment remain pending.
 
 ### Research and specialist modules
 
@@ -39,7 +39,11 @@ The repository follows the [Documentation Rules](https://github.com/naserhussein
 
 ### Handover and archive
 
-The handover folder is reserved for a later attributable transfer or acceptance record. The current dossier, Quality Requirements frameworks, and specialist work package form the accepted provisional handover basis, but no formal transfer of responsibility, specialist assignment record, or operational handover has been completed. The archive is reserved for superseded Namaa documents.
+The handover folder is reserved for a later attributable transfer or acceptance record. The current dossier, Quality Requirements frameworks, and specialist work package form the accepted provisional handover basis. Limited coordination of the specialist-development workstream has been delegated to the designated programme manager, but no transfer of specialist approval responsibility, formal specialist-team assignment record, or operational handover has been completed. The archive is reserved for superseded Namaa documents.
+
+### Published summary
+
+- [Namaa Project Summary](output/pdf/Namaa%20Project%20Summary.pdf) — dated snapshot as at 2 August 2026 based on Project Dossier 0.4. Project Dossier 0.5 is the authoritative current source where the snapshot differs.
 
 ## Repository structure
 
@@ -74,6 +78,6 @@ The retained development chain is:
 
 Programme content, pedagogy, age groups, learning objectives, delivery methods, and assessment must be developed by the relevant specialists. Technology and AI remain optional enabling capabilities and are not approved child-facing products.
 
-An initial group with education and child-support experience exists and intends to continue the work. A professionally knowledgeable YISA member will manage the programme-development process, while the specialist team defines programme-specific competence requirements. Formal role and competence records remain pending.
+An initial group with education and child-support experience exists and intends to continue the work. A programme manager is designated for the specialist-development phase; the authoritative name, mandate, and training-role boundary are maintained in the [project dossier](documentation/core/Project%20dossier.md). The programme manager coordinates the remaining team setup, role and competence mapping, and the specialist workstream. Formal specialist-team role, competence, availability, conflict, and assignment records remain pending.
 
 Arabic is the default child-facing learning and materials language, except where another language, such as English, is itself taught. General health and puberty content is limited to simple, accurate, age-appropriate, non-clinical education and support; Namaa does not provide diagnosis, treatment, therapy, psychotherapy, disease management, or individual medical advice.

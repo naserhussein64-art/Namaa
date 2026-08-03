@@ -5,17 +5,17 @@
 | Field | Entry |
 | --- | --- |
 | Project | Namaa |
-| Document status | Provisionally accepted working package for the identified specialist group; formal assignment pending |
-| Version | 0.2 |
+| Document status | Provisionally accepted working package; programme manager designated and formal specialist-team assignment pending |
+| Version | 0.3 |
 | Responsible role | Namaa project leadership |
 | Intended recipient | Identified initial specialist group; programme-specific competence coverage and formal role allocation pending |
 | Created | 1 August 2026 |
 | Related concept | [Project dossier](../core/Project%20dossier.md) |
-| Authoritative decision record | [Project Dossier 0.4](../core/Project%20dossier.md), DEC-009, DEC-011 through DEC-015, and CHG-001 |
+| Authoritative decision record | [Project Dossier 0.5](../core/Project%20dossier.md), DEC-009, DEC-011 through DEC-016, CHG-001, and CHG-002 |
 | Related quality gates | [Programme Quality Framework](Programme%20quality%20framework.md) |
 | Related safeguards | [YISA Child Safeguarding Policy for Namaa](Child%20safeguarding%20policy.md) |
 | Related evidence framework | [Monitoring, Evaluation and Learning Framework](Monitoring%20evaluation%20and%20learning%20framework.md) |
-| Current boundary | An initial group with education and child-support experience exists, but its composition, role allocation, competence evidence, availability, conflicts, and formal assignment have not yet been documented. No first programme has been approved, and this document does not authorise contact with children, training, data collection, or delivery. |
+| Current boundary | Fadi Houli is designated as programme manager for the specialist-development phase and coordinates the remaining team setup and specialist workstream. The initial group's composition, role allocation, competence evidence, availability, conflicts, and formal assignment have not yet been documented. Fadi's intended later training contribution remains subject to programme-specific review and NQ-G2a. No first programme has been approved, and this document does not authorise contact with children, training, data collection, or delivery. |
 
 ## 2. Purpose
 
@@ -33,7 +33,7 @@ The assignment should not begin until Namaa project leadership provides:
 2. the criteria and constraints against which the team should develop and compare possible first-programme options;
 3. known delivery assumptions, while allowing the exact location and operating setting to remain open during the initial programme recommendation where they are not yet decision-relevant;
 4. the permitted and prohibited scope, including professional, safeguarding, data, and AI boundaries;
-5. the Namaa programme manager as the organisational interface, named decision and review roles, available time and resources, and a realistic development horizon;
+5. Fadi Houli as the designated Namaa programme manager and organisational interface, together with the remaining named decision and review roles, available time and resources, and a realistic development horizon;
 6. the current project dossier, evidence module, training framework, and Quality Requirements documents; and
 7. a written brief identifying which decisions the team may make and which require Namaa approval.
 
@@ -162,7 +162,8 @@ Namaa project leadership decides whether the package passes NQ-G1. Passing NQ-G1
 - First programme and precise age and participant frame: **Not selected**.
 - First programme domain and question: **Not selected**.
 - Initial specialist group: **Exists; formal composition, role allocation, competence evidence, availability, conflicts, and assignment not yet documented**.
-- Namaa programme manager: **Role model decided; individual designation and written appointment remain pending**.
+- Namaa programme manager: **Fadi Houli designated for the specialist-development phase; coordinates the remaining team setup and specialist workstream**.
+- Intended additional role of the programme manager: **Future participation in training Syrian teachers or facilitators is planned but not authorised; programme-specific competence evidence, independent required review, safeguarding suitability, and NQ-G2a remain required**.
 - Accountable subject lead: **Not appointed**.
 - Arabic and Syrian contextual review roles: **Not appointed**.
 - Programme-specific evidence review: **Not started**.
@@ -176,3 +177,4 @@ Namaa project leadership decides whether the package passes NQ-G1. Passing NQ-G1
 | --- | --- | --- | --- |
 | 0.1 | 1 August 2026 | Converted remaining professional design questions into a bounded future specialist-team assignment and separated them from YISA and implementation responsibilities. | Proposed; not assigned |
 | 0.2 | 2 August 2026 | Aligned the work package with the confirmed vision, research stop point, Arabic-default language, identified initial team, programme-management model, specialist-owned competence criteria, non-clinical health boundary, and provisionally accepted Quality Requirements basis. | Provisionally accepted working package; formal assignment and detailed specialist review pending |
+| 0.3 | 3 August 2026 | Recorded Fadi Houli's programme-manager designation, delegated coordination of the remaining team setup and specialist workstream, and retained the separate future trainer-authorisation gate. | Programme manager designated; specialist-team mapping, assignment, and detailed review remain pending |

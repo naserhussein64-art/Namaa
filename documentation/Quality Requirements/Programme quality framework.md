@@ -6,13 +6,13 @@
 | --- | --- |
 | Project | Namaa |
 | Document status | Provisionally accepted by Namaa leadership as a working and specialist-review basis; detailed specialist review pending |
-| Version | 0.2 |
+| Version | 0.3 |
 | Responsible role | Namaa project leadership |
 | Created | 1 August 2026 |
 | Provisional acceptance | Namaa project leadership, 2 August 2026 |
 | Standards review date | 1 August 2026 |
 | Related concept | [Project dossier](../core/Project%20dossier.md) |
-| Authoritative decision record | [Project Dossier 0.4](../core/Project%20dossier.md), DEC-010 through DEC-015 and CHG-001 |
+| Authoritative decision record | [Project Dossier 0.5](../core/Project%20dossier.md), DEC-010 through DEC-016, CHG-001, and CHG-002 |
 | Related safeguards | [YISA Child Safeguarding Policy for Namaa](Child%20safeguarding%20policy.md) |
 | Related learning framework | [Monitoring, Evaluation and Learning Framework](Monitoring%20evaluation%20and%20learning%20framework.md) |
 | Related specialist handover | [Specialist Team Handover Tasks](Specialist%20team%20handover%20tasks.md) |
@@ -161,7 +161,7 @@ The gates are sequential but may be repeated. Passing one gate authorises only t
 
 **Boundary:** This gate does not select a programme automatically and does not authorise training, research with children, data collection, funding claims, or delivery.
 
-**Current status:** The concept handover basis was accepted through DEC-009 and updated through CHG-001 in [Project Dossier 0.4](../core/Project%20dossier.md). The identified specialist group's formal role allocation and assignment record remain pending. No later gate has been passed.
+**Current status:** The concept handover basis was accepted through DEC-009 and updated through CHG-001 and CHG-002 in [Project Dossier 0.5](../core/Project%20dossier.md). The programme-manager role is designated. The identified specialist group's formal role allocation, competence mapping, and assignment record remain pending. No later gate has been passed, and the manager designation does not authorise training.
 
 ### NQ-G0.5 — Bounded child participation or instrument-validation readiness
 
@@ -350,3 +350,4 @@ Namaa must not claim that:
 | --- | --- | --- | --- |
 | 0.1 | 1 August 2026 | Initial programme quality framework linked to current international education, humanitarian accountability, safeguarding, inclusion, and evaluation standards | Draft for Namaa leadership and specialist review |
 | 0.2 | 2 August 2026 | Recorded provisional leadership acceptance and aligned the need boundary, Arabic-default language, non-clinical health scope, specialist-owned competence criteria, programme-management role, and current handover status with Project Dossier 0.4. | Provisionally accepted working and specialist-review basis; no programme, training, pilot, or implementation approval |
+| 0.3 | 3 August 2026 | Aligned NQ-G0 and the open-matters register with the programme-manager designation and the continued separation of manager designation from trainer authorisation. | Programme manager designated; no later gate, training, pilot, or implementation approval |
